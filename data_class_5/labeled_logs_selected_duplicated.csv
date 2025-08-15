@@ -1,0 +1,3467 @@
+label,log_text
+1,Stopping mavlink shell
+2,GNSS Fix2 msg detected for ch 0; disabling Fix msg for this node
+3,"param import failed (-1) attempt 2, retrying"
+3,get: param 65535 invalid
+2,Preflight Fail: velocity estimate error
+3,get: param 65535 invalid
+1,"1 (527625) EST:0 offset: [0.038, 0.188, -0.042]->[0.035, 0.183, -0.040] (full [-0.017, 0.107, -0."
+1,Armed by RC
+1,Armed by RC switch
+1,data manager file '/fs/microsd/dataman' size is 128528 bytes
+2,Disarming denied: not landed
+1,Allocated DMA UP Timer Index 0
+2,Already running on bus 1
+1,synchronized with time offset 1754588216774882us
+2,RTT too high for timesync: 13 ms
+1,Armed by external command
+3,failed to initialize mtd driver
+2,Maximum distance from home reached (400.00000)
+1,[logger] /fs/microsd/log/2025-08-06/13_18_43.ulg
+2,Failsafe activated
+2,Preflight Fail: Flight termination active
+1,Armed by RC switch
+1,FF Systemloader V.1.3.0
+3,couldn't start parameter count: -2
+1,"mode: Onboard, data rate: 46080 B/s on /dev/ttyS3 @ 921600B"
+2,"no gyro selected, using sensor_gyro_fifo:0 4325386"
+3,Parameter MAV_2_REMOTE_PRT not found.
+1,Pilot took over using sticks
+1,IO FW CRC match
+2,RTT too high for timesync: 17 ms
+1,u-blox firmware version: SPG 5.10
+3,Battery 2: over voltage.
+1,Start file log (type: full)
+3,couldn't start parameter count: -2
+1,Takeoff detected
+1,Airspeed sensor Nr. 1 ASPD_SCALE updated: 1.0000 --> 0.9993
+2,Preflight Fail: Yaw estimate error
+3,"vehicle_command_ack lost, generation 21 -> 26"
+1,Disarmed by auto preflight disarming
+2,Preflight Fail: Kill switch engaged
+2,Preflight Fail: Flight termination active
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 115200B"
+1,Opened full log file: /fs/microsd/log/2025-08-08/07_10_09.ulg
+1,"param auto save unavailable (-1), retrying.."
+1,vspeed:    OK
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+2,Preflight Fail: Kill switch engaged
+3,bmi055: no instance started (no device on bus?)
+1,logger started (mode=all)
+1,FlightTaskAuto.cpp L616
+1,INFO: Send byte: 0
+1,Start file log (type: full)
+3,get: param 65535 invalid
+1,checks canarm false
+1,"Mission #3 loaded, 6 WPs"
+2,"no gyro selected, using sensor_gyro_fifo:0 4325386"
+1,ACC 0 (4259850) offset committed: [0.222 0.409 0.017]->[0.082 0.215 0.132])
+1,successfully opened UART port /dev/ttyS2
+1,logger started (mode=all)
+1,"1 (8944643) EST:0 offset: [0.069, -0.013, -0.102]->[0.063, -0.015, -0.102] (full [-0.033, -0.049,"
+1,"BSON document size 2747 bytes, decoded 2747 bytes (INT32:58, FLOAT:77)"
+1,importing from '/fs/mtd_params'
+3,driver start failed
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+3,failed to get CAL_GYRO3_ID
+3,couldn't start parameter count: -2
+2,"no gyro selected, using sensor_gyro_fifo:0 2490402"
+3,unknown param ID: 1011
+1,Start file log (type: full)
+1,[logger] /fs/microsd/log/2025-08-07/08_09_27.ulg
+2,RTT too high for timesync: 19 ms
+1,Armed by RC
+3,bmi088: no instance started (no device on bus?)
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+1,[logger] /fs/microsd/log/2025-07-09/19_48_26.ulg
+1,start.......
+2,Preflight Fail: position estimate error
+1,try baud 230400
+1,Opened full log file: /fs/microsd/log/2025-08-09/17_10_16.ulg
+2,Preflight Fail: Kill switch engaged
+1,Kill disengaged
+3,get: param 65535 invalid
+1,IO FW CRC match
+2,hmc5883: no instance started (no device on bus?)
+3,parameter export to /fs/mtd_params failed (-1) attempt 3
+3,mtd_partition failed. offset=32 nblocks=0
+1,[logger] /fs/microsd/log/2025-08-09/15_26_11.ulg
+1,"successfully created rt/fmu/out/vehicle_odometry data writer, topic id: 264"
+1,RTL: start return at 1005 m (1 m above destination)
+2,Arming denied: Resolve system health failures first
+1,"1 (8944643) EST:1 offset: [0.198, -0.103, -0.333]->[0.199, -0.101, -0.329] (full [0.228, -0.013,"
+1,"0 (466977) EST:2 offset: [-0.005, 0.049, -0.019]->[-0.008, 0.050, -0.014] (full [-0.108, 0.099, 0"
+1,Connection to ground station lost
+3,Valid SENS_TEMP_ID required
+1,"0 (396321) EST:1 offset: [0.033, 0.032, -0.266]->[0.037, 0.037, -0.267] (full [0.054, 0.066, -0.3"
+3,Accel #0 fail:  TIMEOUT!
+1,Opened full log file: /fs/microsd/log/sess100/log104.ulg
+1,"0 (73233) EST:1 offset: [-0.179, -0.114, 0.028]->[-0.183, -0.101, 0.026] (full [-0.342, 0.363, -0"
+2,Preflight Fail: Kill switch engaged
+1,"Node ID 1, bitrate 1000000"
+2,Approaching on geofence
+2,[cal] Blow into front of pitot without touching
+1,Armed by RC switch
+2,offboard mission init failed (-1)
+1,[cal] calibration started: 2 level
+1,Start file log (type: full)
+1,"successfully created rt/fmu/out/timesync_status data writer, topic id: 226"
+2,Preflight Fail: Kill switch engaged
+1,Start file log (type: full)
+1,"successfully created rt/fmu/out/vehicle_status data writer, topic id: 229"
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS0 @ 115200B"
+1,driver started
+1,"mode: Config, data rate: 800000 B/s on /dev/ttyACM0 @ 57600B"
+1,Start file log (type: full)
+1,Disarmed by landing
+1,logger started (mode=all)
+1,[logger] /fs/microsd/log/2021-02-18/23_58_01.ulg
+1,[cal] calibration started: 2 esc
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+2,Operation timeout
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,Armed by RC switch
+1,try baud 57600
+1,"closed logfile, bytes written: 1219981"
+1,Armed by RC
+1,[logger] /fs/microsd/log/2025-08-06/15_36_11.ulg
+1,IO FW CRC match
+1,Start file log (type: full)
+1,Start file log (type: full)
+2,Preflight Fail: heading estimate not stable
+1,ACC 2 (2424842) offset committed: [-0.140 -0.102 -0.337]->[-INFO  [vehicle_imu] ACC 1 (2490386) offset committed: [0.057 0.080 0.012]->[0.086 0.015 0.012])
+1,Disarmed by RC switch
+1,"mode: Config, data rate: 800000 B/s on /dev/ttyACM0 @ 57600B"
+3,Parameter PWM_AUX_FUNC3 not found.
+2,Preflight Fail: Kill switch engaged
+2,Using non-standard baudrate: 420000
+1,Opened full log file: /fs/microsd/log/2025-08-02/12_02_15.ulg
+1,[logger] /fs/microsd/log/2025-08-07/08_39_31.ulg
+1,[cal] progress <68>
+2,Mission rejected: unsupported landing approach entrance waypoint type. Only ORBIT_TO_ALT o
+2,Preflight Fail: Yaw estimate error
+1,RC scan: SBUS RC input locked
+1,[cal] progress <26>
+2,ist8310: no instance started (no device on bus?)
+1,logger started (mode=all)
+2,Preflight Fail: Strong magnetic interference
+2,Preflight Fail: Kill switch engaged
+1,[logger] /fs/microsd/log/2025-08-09/17_09_24.ulg
+3,get scale failed
+3,get: param 65535 invalid
+1,logger started (mode=all)
+1,Armed by RC
+2,orb_advertise_multi: failed to set queue size
+3,Parameter MAV_2_REMOTE_PRT not found.
+1,importing from '/fs/mtd_params'
+1,Opened full log file: /fs/microsd/log/2025-08-06/13_52_43.ulg
+2,Preflight Fail: Attitude failure (roll)
+1,Opened full log file: /fs/microsd/log/2025-08-07/03_29_50.ulg
+3,get: param 65535 invalid
+2,Disarming denied: not landed
+1,[logger] /fs/microsd/log/sess113/log100.ulg
+1,Kill engaged
+3,Battery 1: failed to arm.
+2,Preflight Fail: position estimate error
+2,GPS reports spoofing indicated
+1,Start file log (type: full)
+2,"Accel 1 clipping, not safe to fly!"
+3,killed: unsupported node type
+2,Preflight Fail: Attitude failure (roll)
+1,[cal] pending: back front left right up down
+1,time sync converged
+3,"COMMAND_LONG vehicle_command lost, generation 1214 -> 1247"
+1,ist8310 instance is null...
+1,Takeoff detected
+1,Last time imu(ms): 1190384633
+3,get: param 65535 invalid
+1,u-blox protocol version: 32.01
+2,ist8310: no instance started (no device on bus?)
+3,Could not find parameter with name BAT4_V_EMPTY
+1,"1 (8944387) EST:1 offset: [-0.050, 0.031, -0.072]->[-0.053, 0.040, -0.064] (full [-0.062, 0.065,"
+2,Preflight: GPS Vertical Pos Drift too high
+2,Preflight Fail: Open Drone ID system missing
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS1 @ 57600B"
+2,Preflight Fail: Yaw estimate error
+1,Kill engaged
+3,parameter export to /fs/mtd_params failed (-1) attempt 1
+1,"successfully created rt/fmu/out/position_setpoint_triplet data writer, topic id: 180"
+1,importing from '/fs/mtd_params'
+3,mtd_partition failed. offset=32 nblocks=0
+1,Opened full log file: /fs/microsd/log/2025-08-07/09_44_20.ulg
+1,"Fence chunk received, vertices 0-2 of 5"
+2,Preflight Fail: heading estimate not stable
+1,[cal] progress <53>
+1,exceptions : 128 free
+3,get: param 65535 invalid
+2,GPS reports spoofing indicated
+1,[logger] /fs/microsd/log/2025-08-07/10_20_49.ulg
+1,"successfully created rt/px4_1/fmu/out/vehicle_command_ack data writer, topic id: 246"
+1,Start file log (type: full)
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS6 @ 57600B"
+3,CentralizedServer init: -13
+1,"roll = 0.0037, pitch = -0.0091, yaw = -0.2837"
+1,"successfully created rt/fmu/out/battery_status data writer, topic id: 19"
+1,successfully set system clock: Fri 2025-08-08 15:15:10
+1,can_thread : 72 free
+3,mtd failure: -5 bus 2 address 0 class 1
+1,"DEBUG_RC, filter_rc_input_roll, lead_lag_1st"
+1,logger started (mode=all)
+1,u-blox firmware version: HPG 1.32
+1,"mode: Config, data rate: 800000 B/s on /dev/ttyACM0 @ 57600B"
+2,Preflight Fail: Yaw estimate error
+3,param export failed (1)
+2,Preflight Fail: position estimate error
+1,[cal] Battery connected
+1,[cal] calibration done: airspeed
+1,Connection to ground station lost
+1,lpwork_thread : 612 free
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+2,Arming denied: Resolve system health failures first
+1,Armed by RC
+3,Append uavcan channel is not open
+1,Landing detected
+1,importing from '/fs/mtd_params'
+1,"successfully created rt/fmu/out/vehicle_optical_flow data writer, topic id: 262"
+1,"DEBUG_RC,  --fc: 2.500000 hz,ratio = 2.500000"
+1,"successfully created rt/fmu/out/vehicle_odometry data writer, topic id: 261"
+2,Preflight Fail: Kill switch engaged
+3,Task start failed (-1)
+2,Preflight Fail: heading estimate not stable
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+1,Start file log (type: full)
+1,Loading path (version 3)
+1,"closed logfile, bytes written: 4270900"
+1,not init tilt
+3,verify: 'CAL_ACC0_XSCALE' invalid BSON value 13185373196931300000000000000000000000000000000000000000000000
+1,[logger] /fs/microsd/log/2025-08-08/10_53_24.ulg
+1,importing from '/fs/mtd_params'
+1,[logger] /fs/microsd/log/2021-02-18/23_57_51.ulg
+1,Executing Mission
+1,"successfully created rt/fmu/out/vehicle_status data writer, topic id: 266"
+1,#旋翼构型、、、
+2,Preflight Fail: Kill switch engaged
+1,u-blox firmware version: SPG 4.04
+1,Kill disengaged
+1,Opened full log file: /fs/microsd/log/2025-08-08/04_00_54.ulg
+1,"Node ID 1, bitrate 1000000"
+2,Preflight Fail: Attitude failure (roll)
+1,time sync converged
+1,Returning to launch
+2,invalid setpoints
+3,param import failed
+1,Takeoff detected
+1,"1 (396809) EST:2 offset: [0.040, -0.283, -0.077]->[0.040, -0.283, -0.082] (full [0.039, -0.282, -"
+1,[logger] /fs/microsd/log/2025-08-09/17_15_25.ulg
+1,"0 (396825) EST:1 offset: [-0.022, 0.168, -0.058]->[-0.020, 0.154, -0.061] (full [0.062, -0.062, -"
+1,"mode: Onboard, data rate: 80000 B/s on /dev/ttyS0 @ 921600B"
+3,driver start failed
+1,"closed logfile, bytes written: 1699093"
+1,channel 1 got 14 bytes
+1,Armed by RC (switch)
+3,Dance start: not ready (8)
+1,Manual control regained after 816.3s
+1,"Fence chunk received, vertices 0-2 of 5"
+2,#切断动力开关、
+3,GetSet error
+1,Starting mavlink shell
+1,ist8310 初始化败!
+3,mtd failure: -6 bus 2 address 0 class 1
+3,PWM_SERVO_GET_COUNT
+2,"Critical battery level, return now"
+2,"no gyro selected, using sensor_gyro_fifo:0 4325386"
+1,Takeoff detected
+1,RC scan: SBUS RC input locked
+2,Preflight: GPS Horizontal Pos Drift too high
+1,"Node ID 1, bitrate 1000000"
+1,Uncompress PATH done: 0 to 10 KB in 350 ms
+1,"[GNSS sync]sec=1754712681,fix_type=0,pos_type=16,pos_std=1.789055"
+1,"mode: Minimal, data rate: 1200 B/s on /dev/ttyS0 @ 115200B"
+1,[cal] calibration done: accel
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+3,bmi088: no instance started (no device on bus?)
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+2,Preflight Fail: Attitude failure (pitch)
+1,u-blox protocol version: 34.10
+1,Opened full log file: /fs/microsd/log/2025-08-08/08_42_14.ulg
+1,Armed by RC
+3,parameter export to /fs/mtd_params failed (-1) attempt 1
+1,[logger] /fs/microsd/log/2025-08-08/06_25_57.ulg
+2,Preflight Fail: No connection to the ground control station
+3,verify: failed (-1)
+3,parameter export to /fs/mtd_params failed (-1) attempt 3
+3,get: param 65535 invalid
+3,sdp3x: no instance started (no device on bus?)
+1,Armed by RC
+1,[logger] /fs/microsd/log/2025-08-09/17_08_16.ulg
+2,Preflight: GPS Speed Accuracy too low
+1,Start file log (type: full)
+3,node spin error -8
+3,verify: 'CAL_ACC0_XSCALE' invalid BSON value 13185373196931300000000000000000000000000000000000000000000000
+1,Start file log (type: full)
+1,拨杆：向后转换
+2,Preflight Fail: height estimate not stable
+2,Disarming denied: not landed
+1,[logger] /fs/microsd/log/2025-07-19/03_21_06.ulg
+3,get scale failed
+3,param import failed
+2,wq:rate_ctrl low on stack! (84 bytes left)
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+2,[timesync] RTT too high for timesync: 11 ms (sender: 191)
+2,Failure: Kill switch engaged
+3,status: 0 status: 0
+3,verify: invalid parameter ''
+1,Started 0x45 successfully
+2,Preflight Fail: Strong magnetic interference
+2,Battery 1 disconnected
+2,Failsafe activated
+1,Start file log (type: full)
+3,Parameter PWM_AUX_FUNC2 not found.
+1,"BSON document size 2456 bytes, decoded 2456 bytes (INT32:45, FLOAT:73)"
+1,[cal] progress <57>
+1,Opened full log file: /fs/microsd/log/2025-08-01/05_36_42.ulg
+3,verify: invalid parameter ''
+3,param export failed (-1)
+2,Estimator reset denied - vehicle is armed
+2,Preflight Fail: height estimate not stable
+3,"Matching flight task was not able to run, Nav state: 1, Task: 1"
+3,"Can't open log file /fs/microsd/log/sess100/log100.ulg, errno: 2"
+1,Motor F7010 VER: 1.0.215 CRC: EA8DB38F
+1,Start file log (type: full)
+1,"0 (396321) EST:1 offset: [-0.209, -0.101, -0.010]->[-0.195, -0.090, -0.010] (full [-0.065, 0.023,"
+1,Mixer: /etc/mixers/pass.aux.mix on /dev/pwm_output1
+1,"successfully created rt/fmu/out/position_setpoint_triplet data writer, topic id: 180"
+1,Opened full log file: /fs/microsd/log/2025-04-25/03_20_41.ulg
+3,"vehicle_command_ack lost, generation 3532 -> 3550"
+2,Preflight Fail: Kill switch engaged
+2,Preflight Fail: Kill switch engaged
+3,"node name overflow, type:0x01, name:CAL_AC"
+1,Opened full log file: /fs/microsd/log/2025-08-09/17_13_40.ulg
+1,selected parameter default file /fs/mtd_params
+1,"Failed to init INA226 on bus 2, but will try again periodically."
+1,Opened full log file: /fs/microsd/log/2025-08-06/06_00_17.ulg
+1,[logger] /fs/microsd/log/2025-08-07/09_35_27.ulg
+3,verify: failed (-1)
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS6 @ 921600B"
+1,No airspeed sensor detected. Switch to non-airspeed mode.
+1,Powercan main run
+3,get: param 65535 invalid
+1,Start file log (type: full)
+1,"instance: 0, max rate: 100, default: 50, alt: 50"
+1,Registered Topic for 0x6 0x1
+1,IO FW CRC match
+1,logger started (mode=all)
+1,send arm battery command
+3,unknown param ID: 1077
+2,[timesync] RTT too high for timesync: 13 ms (sender: 240)
+1,"DanceFence::_updateFence() done, 1 polys, 5 vertices"
+2,Switching to Mission is currently not available
+2,Preflight: GPS Horizontal Pos Error too high
+1,logger started (mode=all)
+1,[logger] /fs/microsd/log/sess100/log100.ulg
+2,Connection to mission computer lost
+1,[logger] /fs/microsd/log/2025-08-06/14_14_12.ulg
+3,Low battery
+2,Preflight Fail: Attitude failure (roll)
+3,bmi088: no instance started (no device on bus?)
+1,"mode: Gimbal, data rate: 5760 B/s on /dev/ttyS4 @ 115200B"
+3,Parameter MAV_2_BROADCAST not found.
+1,Takeoff to 3.0 meters above home
+1,FlightTaskAuto.cpp L358
+3,Valid SENS_TEMP_ID required
+1,Opened full log file: /fs/microsd/log/2025-08-08/17_48_57.ulg
+3,"can't start sbus, it's running"
+1,"closed logfile, bytes written: 1365802"
+1,负载 关
+1,Opened full log file: /fs/microsd/log/2025-08-08/04_01_32.ulg
+1,"mg nb : 0xaa77, len : 0x41267, nb_sections : 0x2"
+1,Mixer: /etc/mixers/pass.aux.mix appended to /dev/pwm_output0
+3,"vehicle_command_ack lost, generation 3532 -> 3550"
+3,couldn't start parameter count: -2
+1,u-blox firmware version: HPG 1.13
+1,[logger] /fs/microsd/log/2025-08-08/10_04_45.ulg
+3,parameter export to /fs/microsd/params failed (-1) attempt 3
+1,IO FW CRC match
+1,IO FW CRC match
+1,FlightTaskAuto.cpp L358
+3,Battery 2: over voltage.
+3,Battery 2: over voltage.
+2,"First waypoint too far away: 55915 meters, 5000 max."
+1,"successfully created rt/fmu/out/vehicle_local_position data writer, topic id: 256"
+1,[logger] /fs/microsd/log/2025-08-06/07_20_45.ulg
+1,channel 1 got 14 bytes
+1,Landing detected
+2,Preflight Fail: Yaw estimate error
+1,[cal] progress <100>
+3,bmi088: no instance started (no device on bus?)
+3,unknown param: SYSID_CK
+1,synchronized with time offset 1754527941507334us
+1,i2c2_thread : 72 free
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+2,"Too many subscriptions, failed to add: vehicle_trajectory_waypoint 0"
+1,"Path data96 req: 0, 321, 0, 1, 84"
+2,Preflight Fail: Strong magnetic interference
+1,Uncompressing PATH /fs/microsd/MY.PATH
+1,"closed logfile, bytes written: 3336143"
+1,Start file log (type: full)
+2,Preflight Fail: velocity estimate error
+1,Opened full log file: /fs/microsd/log/2025-07-31/11_59_48.ulg
+1,执行 FwAutotuneAttitudeControl::init() 程序
+1,"closed logfile, bytes written: 206507"
+2,invalid setpoints
+1,"successfully created rt/fmu/out/vehicle_status data writer, topic id: 266"
+2,RTT too high for timesync: 21 ms
+2,ist8310: no instance started (no device on bus?)
+2,Preflight: GPS Horizontal Pos Drift too high
+2,Preflight Fail: height estimate not stable
+1,Start file log (type: full)
+2,Preflight: GPS Horizontal Pos Drift too high
+1,"Node ID 1, bitrate 1000000"
+1,[cal] Connect battery now
+1,[logger] /fs/microsd/log/2025-08-06/09_16_03.ulg
+2,Preflight Fail: Kill switch engaged
+3,get: param 65535 invalid
+2,Preflight Fail: Kill switch engaged
+1,Disarmed by landing
+2,Arm stick gesture disabled if arm switch in use
+2,Preflight Fail: heading estimate not stable
+1,ACC 1 (2490378) offset committed: [-0.000 0.050 -0.016]->[-0.225 0.177 -0.011])
+3,get: param 65535 invalid
+3,"vehicle_command_ack lost, generation 16151 -> 16153"
+1,当前油门关闭
+1,exceptions : 120 free
+3,node spin error -8
+2,Arming denied: throttle above center
+2,Preflight Fail: Kill switch engaged
+1,"0 (466953) EST:2 offset: [-0.243, 0.048, 0.022]->[-0.235, 0.046, 0.022] (full [-0.190, 0.033, 0.0"
+3,get: param 65535 invalid
+1,"Failed to init INA228 on bus 1, but will try again periodically."
+1,logging 12 topics from logger_topics.txt
+2,Preflight Fail: heading estimate not stable
+3,couldn't start parameter count: -2
+3,parameter export to /fs/mtd_params failed (-1) attempt 3
+1,"Found address 0x45, running 'ina228 -X -b 1 -t 1 start'"
+1,logger started (mode=all)
+1,Starting CDC/ACM autostart
+1,"gyro 0 (3932170) updating calibration, [-0.0051, 0.0224, 0.0051] -> [-0.0033, 0.0101, 0.0040] 35.3°C"
+1,qq_ver3=3
+3,Network could not be saved!
+3,couldn't start parameter count: -2
+3,"vehicle_command_ack lost, generation 2 -> 6"
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS0 @ 57600B"
+3,get: param 65535 invalid
+1,initialised
+2,AK09916 mag init failed
+1,Opened full log file: /fs/microsd/log/2025-08-07/09_00_37.ulg
+3,param auto save failed (-1)
+1,Start file log (type: full)
+1,Opened full log file: /fs/microsd/log/2025-08-08/02_58_40.ulg
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+3,verify: invalid parameter 'SDLOG_PR'
+1,"Node ID 1, bitrate 1000000"
+1,"successfully created rt/fmu/out/vehicle_control_mode data writer, topic id: 260"
+1,[logger] /fs/microsd/log/2025-08-06/23_18_12.ulg
+2,Using non-standard baudrate: 420000
+1,u-blox protocol version: 34.10
+2,Preflight: GPS Horizontal Pos Drift too high
+3,"init failed, vehicle_attitude already advertised"
+2,Preflight Fail: Flight termination active
+1,selected parameter default file /fs/mtd_params
+1,"0 (527633) EST:1 offset: [-0.076, 0.031, 0.441]->[-0.115, 0.017, 0.438] (full [-0.235, -0.080, 0."
+2,Disarming denied: not landed
+3,parameter export to /fs/mtd_params failed (1) attempt 1
+2,time sync no longer converged
+1,Opened full log file: /fs/microsd/log/2025-08-01/05_36_42.ulg
+3,importing failed (-1)
+1,"starting EV velocity fusion, resetting velocity to (0.000, -0.000, -0.003)"
+1,channel 1 got 14 bytes
+2,Preflight Fail: velocity estimate error
+3,"action_request lost, generation 12 -> 14"
+1,"mode: Minimal, data rate: 2880 B/s on /dev/ttyS4 @ 57600B"
+1,Time adjust by 779300403 ms
+1,"Path loaded: 429 points, load time: 396 ms"
+2,Preflight Fail: velocity estimate error
+1,Onboard controller regained
+2,Already running on bus 1
+2,Preflight Fail: Kill switch engaged
+2,Mission rejected: the landing glide slope is steeper than the vehicle setting of 5.0 degre
+3,"vehicle_command_ack lost, generation 754 -> 756"
+1,"mg nb : 0xaa66, len : 0x40207, nb_sections : 0x2"
+1,ACC 1 (2490402) offset committed: [-0.063 -0.089 -0.092]->[-0.043 -0.165 -0.089])
+1,Uncompressing PATH /fs/microsd/MY.PATH
+1,Start file log (type: full)
+1,Kill engaged
+1,u-blox protocol version: 27.50
+3,open '/fs/mtd_caldata' failed (2)
+1,[logger] /fs/microsd/log/2025-08-07/13_43_36.ulg
+1,Armed by RC
+3,"Matching flight task was not able to run, Nav state: 1, Task: 1"
+2,Critical battery
+2,Preflight: GPS Horizontal Pos Error too high
+1,Starting mavlink on /dev/ttyACM0 (SYS_USB_AUTO=2)
+3,Failed to get client ID!
+1,Mixer: /etc/mixers/quad_x.main.mix on /dev/pwm_output0
+2,Disarming denied: not landed
+1,"closed logfile, bytes written: 2147065"
+2,teraranger: no instance started (no device on bus?)
+1,"closed logfile, bytes written: 3194936"
+2,Preflight: GPS Hor Speed Drift too high
+2,Preflight: Strong magnetic interference detected
+2,no broadcasting address found
+2,no broadcasting address found
+1,RC scan: SBUS RC input locked
+1,Hello from Hazem! The commander is running.
+1,"Detected parameter update, reloading..."
+1,Opened full log file: /fs/microsd/log/2021-02-19/00_03_31.ulg
+2,Preflight Fail: Yaw estimate error
+2,Preflight: GPS Vertical Pos Drift too high
+1,"successfully created rt/fmu/out/vehicle_global_position data writer, topic id: 213"
+1,u-blox protocol version: 27.12
+2,Failsafe: stop and wait
+1,"mode: Config, data rate: 800000 B/s on /dev/ttyACM0 @ 57600B"
+1,logger started (mode=all)
+1,u-blox firmware version: HPG 1.13
+3,GetSet error
+2,Switching to Offboard is currently not available
+1,Selected Rover (CAN ID 124) not available or initialized. Not initializing GPS with ID 125
+1,selected parameter default file /fs/mtd_params
+1,Preflight Fail: No manual control input
+2,Arming denied! Flying with USB is not safe
+3,failed to initialize mtd driver
+1,"successfully created rt/fmu/out/timesync_status data writer, topic id: 191"
+1,[logger] /fs/microsd/log/2025-08-08/19_55_33.ulg
+1,"mode: Normal, data rate: 100000 B/s on udp port 14550 remote port 14550"
+1,Landing detected
+3,unknown param ID: 1011
+3,Parameter MAV_2_REMOTE_PRT not found.
+1,"instance: 0, max rate: 800, default: 50, alt: 400"
+1,Disarmed by RC (switch)
+1,INFO: Send byte: 170
+2,Preflight Fail: Strong magnetic interference
+1,[cal] progress <40>
+2,Preflight Fail: Yaw estimate error
+3,/dev/ttyS0 write error -1
+1,EKF commencing GPS fusion
+1,logger started (mode=all)
+1,1 - selected distance_sensor:0 (2 advertised)
+1,"[cal] 检测到1个传感器, 当前校准第1个"
+3,no ADC found: /dev/adc0 (2)
+1,[logger] /fs/microsd/log/2025-08-09/03_21_56.ulg
+2,Preflight Fail: Kill switch engaged
+1,reset velocity to zero
+1,Armed by RC
+2,GNSS Fix2 msg detected for ch 1; disabling Fix msg for this node
+1,icao_address added. Buffer Size: 1
+3,Node init failed: -13
+2,Disarming denied! Not landed
+2,Preflight Fail: Strong magnetic interference
+2,navigator low on stack! (268 bytes left)
+1,u-blox firmware version: HPG 1.32
+1,logger started (mode=all)
+1,"successfully created rt/fmu/out/timesync_status data writer, topic id: 191"
+1,[cal] progress <85>
+1,"BSON document size 2890 bytes, decoded 2890 bytes"
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+1,"0 (527633) EST:1 offset: [-0.019, -0.163, 0.279]->[0.018, -0.161, 0.279] (full [0.199, 0.033, 0.3"
+1,read path chunk: type 2  offset 0  time 2 ms /fs/microsd/MY.PATH
+3,get scale failed
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+1,"0 (466977) EST:1 offset: [0.027, 0.011, -0.066]->[0.031, 0.007, -0.065] (full [0.237, -0.150, -0."
+1,Opened full log file: /fs/microsd/log/2025-08-06/14_05_48.ulg
+1,"mode: Normal, data rate: 100000 B/s on udp port 14550 remote port 14550 target ip: 0.0.0.0"
+2,Preflight Fail: height estimate not stable
+2,Preflight Fail: Attitude failure (roll)
+1,sending FrSky SmartPort telemetry
+3,failed to initialize mtd driver
+3,unknown param ID: 902
+2,ist8310: no instance started (no device on bus?)
+1,"force: [0.000000, 0.000000, -2.734924], torque: [-0.128938, 0.005093, 0.002181]"
+1,"roll = 0.0040, pitch = -0.0089, yaw = -0.2837"
+3,unknown param ID: 610
+1,"successfully created rt/fmu/out/vehicle_attitude data writer, topic id: 242"
+2,Preflight: GPS Vertical Pos Drift too high
+1,Start file log (type: full)
+1,Armed by RC
+1,"all way points has been received, wp num is: 29"
+1,Armed by RC (switch)
+1,RC scan: SBUS RC input locked
+1,"1 (8944643) EST:1 offset: [0.015, 0.153, -0.014]->[0.016, 0.147, -0.013] (full [0.050, -0.142, 0."
+1,开始卫星定向航向融合
+3,bmp581: no instance started (no device on bus?)
+1,Armed by RC (switch)
+3,[timesync] Time jump detected. Resetting time synchroniser.
+1,Preflight check
+2,Preflight Fail: Yaw estimate error
+2,Preflight Fail: Kill switch engaged
+3,Product_ID: 0
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS1 @ 57600B"
+1,Calibration: Disabling RC input
+2,Preflight Fail: Kill switch engaged
+1,"BSON document size 2854 bytes, decoded 2854 bytes (INT32:62, FLOAT:75)"
+3,get: param 65535 invalid
+1,"MESSAGE DATA96 with data: chunk_id=0, size=84"
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+3,get: param 65535 invalid
+1,Setting channel 5 maximum to 1900
+2,Preflight Fail: Global position required
+1,Safeland activated
+1,RC scan: SBUS RC input locked
+2,Preflight: GPS Speed Accuracy too low
+3,verify: failed (-1)
+2,Preflight: GPS fix too low
+1,Pilot took over control using sticks
+1,hdrift:    OK
+1,Armed by Stick gesture
+2,Preflight Fail: Kill switch engaged
+1,Takeoff detected
+2,"Low battery level, return advised"
+1,[logger] /fs/microsd/log/2025-08-06/14_26_37.ulg
+1,"mode: Onboard, data rate: 92160 B/s on /dev/ttyS3 @ 921600B"
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+2,PREFLIGHT FAIL: System global position not valid
+2,time sync no longer converged
+1,Using default takeoff altitude: 1.5 m
+3,failed setting PWM rate on IO
+1,Armed by RC switch
+1,i2c2_thread : 72 free
+3,CentralizedServer init: -13
+1,start
+1,"MESSAGE DATA96 with data: chunk_id=3, size=69"
+1,Armed by RC (switch)
+1,initialised
+3,get: param 65535 invalid
+3,Preflight Fail: low battery
+2,Preflight: GPS Vertical Pos Drift too high
+1,Updating SENS_BOARD_Y_OFF 1.3 -> -0.1 degrees
+1,Opened full log file: /fs/microsd/log/sess200/log100.ulg
+1,No temperature calibration available for gyro 1 (device id 6684698)
+1,Firmware revision 10 is up to date
+1,RTL: start return at 57 m (29 m above destination)
+2,RTT too high for timesync: 13 ms
+2,RTT too high for timesync: 111 ms
+2,Preflight Fail: Flight termination active
+1,Armed by RC
+2,command 207 unsupported
+1,"airspeed scale set to 1.000000, offset to 6.894469"
+2,Preflight Fail: horizontal velocity estimate not stable
+2,GPS jamming detected! (state: 3) (indicator: 94)
+2,Preflight Fail: Accel 0 inconsistent - check cal
+2,Preflight Fail: Kill switch engaged
+2,command 207 unsupported
+2,Preflight Fail: heading estimate not stable
+1,importing from '/fs/mtd_params'
+1,Start file log (type: full)
+3,"COMMAND_LONG vehicle_command lost, generation 1041 -> 1074"
+1,[logger] /fs/microsd/log/2025-08-07/01_50_34.ulg
+3,"vehicle_command_ack lost, generation 12 -> 2998"
+1,"closed logfile, bytes written: 2371855"
+1,"0 (396825) EST:0 offset: [-0.011, 0.000, -0.044]->[-0.016, 0.001, -0.044] (full [-0.048, 0.002, 0"
+1,Opened full log file: /fs/microsd/log/2025-08-07/19_27_04.ulg
+1,"closed logfile, bytes written: 288134"
+1,importing from '/fs/mtd_params'
+3,node spin error -8
+1,"successfully created rt/fmu/out/vehicle_optical_flow data writer, topic id: 262"
+2,wq:uavcan low on stack! (228 bytes left)
+1,GCS connection regained
+1,logger started (mode=all)
+2,Preflight Fail: position estimate error
+1,Init info.period =  0.00400 sigNo = 0x0011
+2,Preflight Fail: Kill switch engaged
+1,Start file log (type: full)
+1,sbus main...
+2,GPS reports spoofing indicated
+1,"successfully created rt/fmu/out/vehicle_status data writer, topic id: 266"
+2,Preflight: GPS Speed Accuracy too low
+3,Product_ID: 0
+1,u-blox module: NEO-M9N
+1,"using network interface eth0, IP: 192.168.0.3"
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+1,formatting /dev/mmcsd0
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS1 @ 57600B"
+1,[logger] /fs/microsd/log/2025-08-06/08_39_17.ulg
+2,Preflight: GPS Horizontal Pos Drift too high
+3,Task already running
+3,mtd failure: -5 bus 2 address 0 class 1
+2,Switching to Hold is currently not available
+1,Kill Switch triggered by RC. Switching to RC Control.
+2,Failsafe: stop and wait
+1,Mixer: /etc/mixers/quad_x.main.mix on /dev/pwm_output0
+1,RC scan: SBUS RC input locked
+1,[logger] /fs/microsd/log/2025-08-07/03_18_47.ulg
+1,synchronized with time offset 1754666092151165us
+1,"closed logfile, bytes written: 620820"
+3,parameter export to /fs/mtd_params failed (-1) attempt 1
+3,failed to initialize mtd driver
+1,[logger] /fs/microsd/log/2025-08-07/23_58_17.ulg
+1,"init UDP agent IP:10.41.10.1, port:8888"
+2,Dropped 145 events (seq=164)
+2,GPS reports spoofing indicated
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+3,bmi088: no instance started (no device on bus?)
+1,selected parameter default file /fs/mtd_params
+1,Takeoff detected
+1,UART4串口初始化成功
+2,Preflight Fail: Kill switch engaged
+1,Disarmed by landing
+3,not starting (use px4io for safety button)
+1,Armed by RC (switch)
+3,Parameter MAV_2_UDP_PRT not found.
+1,"instance: 0, max rate: 100, default: 50, alt: 50"
+1,u-blox protocol version: 34.10
+3,failed to get CAL_MAG1_ID
+2,REJ. WP CMD: partner id mismatch
+2,[timesync] RTT too high for timesync: 27 ms (sender: 191)
+1,(120m 20Hz) with address 102 found
+1,[logger] /fs/microsd/log/2025-08-06/12_40_50.ulg
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS0 @ 57600B"
+1,Armed by RC
+1,"closed logfile, bytes written: 10457614"
+1,Landing detected
+1,"1 (396809) EST:0 offset: [0.043, -0.280, -0.055]->[0.042, -0.284, -0.060] (full [0.041, -0.292, -"
+1,"Battery PRES not asserted, requesting power on."
+1,Takeoff detected
+1,FlightTaskAuto.cpp L616
+2,RTT too high for timesync: 13 ms
+1,"force: [0.000000, 0.000000, 4.235869], torque: [-0.030839, -0.120371, 0.000838]"
+1,Armed by RC (switch)
+1,Armed by RC (switch)
+3,unknown param ID: 687
+1,"0 (396825) EST:1 offset: [0.031, 0.015, -0.033]->[0.039, 0.004, -0.043] (full [0.129, -0.049, -0."
+2,Preflight Fail: velocity estimate error
+1,uart name : /dev/ttyS1
+3,Device /dev/ttyACM0 does not exist
+3,param export failed (-1)
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+3,stat failed read: No such file or directory
+1,channel 1 got 14 bytes
+3,instance 0: RADIO_STATUS timeout
+3,bmi088: no instance started (no device on bus?)
+1,Landing detected
+1,GCS connection regained
+3,parameter export to /fs/microsd/params failed (-1) attempt 3
+1,logger started (mode=all)
+1,Bitrate1 1000000 mode1 0
+3,"Can't open log file /fs/microsd/log/sess100/log100.ulg, errno: 2"
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+1,"successfully created rt/fmu/out/vehicle_global_position data writer, topic id: 213"
+3,get: param 65535 invalid
+2,no RGB led on bus #1
+2,"no gyro selected, using sensor_gyro_fifo:0 3407898"
+2,WPM: REJ. CMD: Busy
+2,"Preflight Fail: Accel Range, hold still on arming"
+3,Could not find parameter with name BAT4_V_EMPTY
+1,logger started (mode=all)
+1,Start file log (type: full)
+2,Failsafe: blind land
+1,Disarmed by lockdown
+3,Network could not be saved!
+1,"roll = -0.0229, pitch = -0.0220, yaw = -0.0072"
+1,channel 1 got 14 bytes
+1,Landing detected
+1,Disarmed by landing
+1,trigger init
+3,couldn't start parameter count: -2
+1,channel 1 got 14 bytes
+3,verify: failed (-1)
+1,[logger] /fs/microsd/log/2025-08-08/07_05_00.ulg
+1,Opened full log file: /fs/microsd/log/2025-08-08/03_01_22.ulg
+1,Takeoff detected
+1,"closed logfile, bytes written: 3168224"
+1,"closed logfile, bytes written: 22279355"
+1,Opened full log file: /fs/microsd/log/2025-08-08/13_02_06.ulg
+1,DO JUMP repetitions 1 times.
+1,[cal] progress <20>
+1,#需9秒、、、、、、
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+2,GPS reports spoofing indicated
+1,[timesync] Synchronized realtime clock
+2,Preflight Fail: Kill switch engaged
+3,Battery 2: over voltage.
+1,"mode: Onboard, data rate: 46080 B/s on /dev/ttyS2 @ 921600B"
+1,"1 (8944387) EST:0 offset: [-0.064, -0.153, 0.010]->[-0.066, -0.160, 0.010] (full [-0.071, -0.181,"
+2,Preflight Fail: No connection to the ground control station
+2,Preflight Fail: No connection to the ground control station
+3,unknown param ID: 902
+1,"BSON document size 2474 bytes, decoded 2474 bytes (INT32:71, FLOAT:52)"
+2,Preflight Fail: No connection to the ground control station
+1,Disarmed by RC (switch)
+1,logger started (mode=all)
+1,启用爬升率控制，进入高度：36.9m
+1,START BARO
+1,Kill disengaged
+1,First initialization
+1,RC scan: SBUS RC input locked
+3,"vehicle_command_ack lost, generation 21 -> 26"
+3,mtd failure: -6 bus 2 address 0 class 1
+1,Autotune returned to idle
+2,Preflight Fail: Flight termination active
+1,logger started (mode=all)
+1,Mixer: /etc/mixers/pass.aux.mix on /dev/pwm_output1
+1,[logger] /fs/microsd/log/2025-08-01/06_24_56.ulg
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS1 @ 57600B"
+3,"vehicle_command_ack lost, generation 3871 -> 3884"
+3,verify: invalid parameter 'CAL_GYRO2_ZO '
+1,"Node ID 1, bitrate 1000000"
+1,Battery Knob closed!
+1,Start file log (type: full)
+1,Scanning timeout: exiting
+2,Preflight: GPS Hor Speed Drift too high
+1,"closed logfile, bytes written: 1217443"
+3,/dev/ttyS0 write error -1
+3,PWM_SERVO_SET_UPDATE_RATE (check rate for sanity)
+2,wq:rate_ctrl low on stack! (108 bytes left)
+2,RTT too high for timesync: 12 ms
+1,#向后转、、、、
+3,"vehicle_command_ack lost, generation 547 -> 549"
+1,"0 (73225) EST:1 offset: [0.081, 0.004, -0.200]->[0.089, 0.012, -0.200] (full [0.208, 0.086, -0.20"
+2,Preflight Fail: heading estimate not stable
+1,Connection to ground station lost
+1,[logger] /fs/microsd/log/2025-08-05/10_05_43.ulg
+1,u-blox firmware version: SPG 5.10
+1,Connection to ground station lost
+1,Opened full log file: /fs/microsd/log/2025-08-06/05_43_11.ulg
+1,starting optical flow fusion
+1,RTL: return at 33 m (1 m above destination)
+2,Preflight: GPS fix too low
+1,Opened full log file: /fs/microsd/log/2025-08-09/02_29_56.ulg
+2,Preflight: GPS Horizontal Pos Drift too high
+1,"gyro 2 (2424842) updating offsets [-0.043, -0.002, 0.002]->[-0.027, -0.012, 0.005] 46.0 degC"
+3,[timesync] Time jump detected. Resetting time synchroniser.
+3,get: param 65535 invalid
+2,Already running on bus 1
+3,parameter export to /fs/mtd_params failed (1) attempt 1
+2,Failsafe activated: entering Hold for 5 seconds
+2,[cal] calibration cancelled
+1,"0 (458770) EST:0 offset: [-0.028, 0.066, 0.011]->[-0.028, 0.063, 0.017] (full [-0.054, 0.060, 0.0"
+2,Preflight Fail: Kill switch engaged
+1,and broadcast IP: 10.0.0.255
+2,Preflight Fail: Strong magnetic interference
+1,partner IP: 10.41.10.1
+1,[logger] /fs/microsd/log/2025-08-04/18_01_56.ulg
+1,importing from '/fs/mtd_params'
+1,Disarmed by RC (switch)
+3,get: param 65535 invalid
+1,Opened full log file: /fs/microsd/log/sess118/log110.ulg
+1,Armed by RC (switch)
+1,Start file log (type: full)
+1,Start file log (type: full)
+2,Preflight Fail: Kill switch engaged
+1,Landing detected
+1,Disarmed by RC (switch)
+1,default PWM output device
+3,Battery 2: over voltage.
+3,Battery 1: failed to arm.
+1,selected parameter default file /fs/mtd_params
+2,ist8310: no instance started (no device on bus?)
+1,IO FW CRC match
+1,setting PWM_AUX_OUT none
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+2,Preflight Fail: velocity estimate error
+3,get: param 65535 invalid
+3,get: param 65535 invalid
+1,importing from '/fs/mtd_params'
+2,Failsafe activated
+2,no broadcasting address found
+1,exceptions : 80 free
+2,Preflight Fail: Strong magnetic interference
+1,Fence dm locked
+3,parameter export to /fs/mtd_params failed (-1) attempt 2
+1,[logger] /fs/microsd/log/2025-07-27/10_30_37.ulg
+1,Takeoff detected
+3,Parameter MAV_2_REMOTE_PRT not found.
+1,"successfully created rt/fmu/out/vehicle_angular_velocity data writer, topic id: 240"
+1,Armed by RC (switch)
+1,Armed by Stick gesture
+3,"vehicle_command_ack lost, generation 22 -> 27"
+2,ms5611: no instance started (no device on bus?)
+1,Starting CDC/ACM autostart
+1,Start file log (type: full)
+1,Preflight Fail: No manual control input
+1,[cal] right orientation detected
+2,Preflight Fail: Gyro Sensor 0 missing
+1,Start file log (type: full)
+1,FlightTaskAuto.cpp L616
+1,u-blox module: NEO-M9N
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+1,[logger] /fs/microsd/log/2025-08-08/04_01_32.ulg
+3,parameter export to /fs/mtd_params failed (-1) attempt 1
+1,Executing Mission
+2,Mission item could not be set.
+1,Registered Topic for 0x6 0x3E
+1,Kill-switch disengaged
+2,Preflight Fail: Kill switch engaged
+1,RC scan: SBUS RC input locked
+1,[logger] /fs/microsd/log/2025-08-08/08_17_25.ulg
+1,"ACC 0 (3670026) offset committed: [0.103 -0.129 0.062]->[-0.006 -0.063 INFO  [vehicle_magnetometer] 0 (73225) EST:0 offset: [0.095, 0.018, -0.202]->[0.126, 0.045, -0.208] (full [0.178, 0.070, -0.22"
+1,Jumping CAN modules into application
+3,failed setting PWM rate on IO
+3,verify: invalid parameter 'RC_MB'
+3,get: param 65535 invalid
+1,selected parameter default file /fs/mtd_params
+1,# 2、、、、、、、
+1,removing log directory /fs/microsd/log/sess208 to get more space (left=1179 MiB)
+2,Failsafe activated
+1,"1 (396809) EST:0 offset: [-0.117, -0.053, 0.090]->[-0.114, -0.049, 0.090] (full [-0.094, -0.027,"
+3,failed to initialize mtd driver
+1,Start file log (type: full)
+2,Preflight Fail: Kill switch engaged
+3,failed to get CAL_MAG1_ID
+1,"instance: 0, max rate: 100, default: 50, alt: 50"
+2,Preflight Fail: Strong magnetic interference
+2,rc control switch to sbus success
+1,channel 0 got 14 bytes
+3,couldn't start parameter count: -2
+3,"vehicle_command_ack lost, generation 2 -> 6"
+1,Opened full log file: /fs/microsd/log/2025-08-08/01_56_11.ulg
+1,"---zwz: forward_message: sysid=255, compid=190, msgid=73, cmd=0"
+3,node spin error -8
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS1 @ 57600B"
+3,"sending broadcast failed, errno: 114: Network is unreachable"
+1,"1 (396809) EST:0 offset: [0.043, -0.280, -0.055]->[0.042, -0.284, -0.060] (full [0.041, -0.292, -"
+1,Invalid time ignored: 0
+2,Preflight: GPS Speed Accuracy too low
+1,"BSON document size 3198 bytes, decoded 3198 bytes (INT32:67, FLOAT:88)"
+1,Armed by RC (switch)
+1,logger started (mode=all)
+1,Registered Topic for 0x6 0x24
+1,Opened full log file: /fs/microsd/log/2021-02-19/00_02_07.ulg
+1,[cal] progress <80>
+1,qq_ver4=114
+2,Preflight Fail: Accel 0 inconsistent - check cal
+3,Low battery
+1,"BSON document size 2747 bytes, decoded 2747 bytes (INT32:58, FLOAT:77)"
+1,Registered Topic for 0xA 0x4
+1,"closed logfile, bytes written: 552406"
+1,Opened full log file: /fs/microsd/log/2025-08-07/16_24_23.ulg
+1,Preflight Advice: Accels inconsistent - Check Cal
+2,Preflight Fail: Yaw estimate error
+2,GPS reports critical jamming state
+1,"0 (73225) EST:0 offset: [0.075, -0.005, -0.199]->[0.081, 0.004, -0.200] (full [0.142, 0.073, -0.2"
+3,Node init failed: -13
+1,Starting CDC/ACM autostart
+1,"closed logfile, bytes written: 4529343"
+3,get: param 65535 invalid
+1,[logger] /fs/microsd/log/2025-08-08/04_26_07.ulg
+1,Start file log (type: full)
+2,Preflight Fail: heading estimate not stable
+1,"successfully created rt/fmu/out/sensor_combined data writer, topic id: 214"
+1,Ignore command 512 from 255/190 to 33/1
+1,Constructing BMS_SY6S. Device: /dev/ttyS3
+1,ACC 0 (4259850) offset committed: [-0.059 0.173 0.023]->[-0.248 0.230 0.013])
+3,get: param 65535 invalid
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,selected parameter default file /fs/mtd_params
+2,Preflight Fail: Flight termination active
+1,"1 (396833) EST:0 offset: [0.057, 0.113, -0.123]->[0.054, 0.104, -0.123] (full [-0.076, -0.240, -0"
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+2,Preflight Fail: Vehicle is in transition state
+1,"closed logfile, bytes written: 330619"
+1,reset velocity to GPS
+2,Preflight Fail: height estimate error
+1,"starting instance 0, IMU:0 (3670026), MAG:0 (0)"
+1,Opened full log file: /fs/microsd/log/2025-08-06/14_15_14.ulg
+2,ESCs telemetry timeout
+1,#加转速、、、、、
+2,"no gyro selected, using sensor_gyro_fifo:0 4325386"
+2,RTT too high for timesync: 10 ms
+2,Preflight Fail: Attitude failure (roll)
+2,Preflight Fail: Flight termination active
+3,unknown param ID: 930
+1,Landing detected
+1,[logger] /fs/microsd/log/2025-08-09/09_20_34.ulg
+1,Disarmed by external command
+1,GCS connection regained
+3,param auto save failed (-1)
+1,Mixer: /etc/mixers/nuaa_quad_tiltrotor.aux.mix on /dev/pwm_output1
+1,selected parameter default file /fs/mtd_params
+3,killed: unsupported node type
+1,"BSON document size 2890 bytes, decoded 2890 bytes"
+3,"node name overflow, type:0x01, name:CAL_AC"
+1,Takeoff detected
+3,Parameter RBCLW_REV not found.
+1,Opened full log file: /fs/microsd/log/2025-08-07/14_21_43.ulg
+1,Left battery online
+2,Preflight Fail: Kill switch engaged
+1,#速度5米每秒、、
+1,"closed logfile, bytes written: 805826"
+1,CZI_SNCODE:0212C100F14524049AGC
+3,mission update failed
+3,"COMMAND_LONG vehicle_command lost, generation 1041 -> 1074"
+1,0)  37.551247 127.127915  37.551785 127.127235  37.551247 127.126555  37.550708 127.127235  37.551247 127.127915
+2,Switching to Position is currently not available
+1,[logger] /fs/microsd/log/2025-08-08/14_33_43.ulg
+1,"gyro 1 (3604506) ucalibration] gyro 1 (3604506) up0.003]->[0.017, -0.018, 0.006] 52.0 degC"
+1,Takeoff detected
+1,target_component: 1
+3,Battery 2: over voltage.
+1,"BSON document size 4027 bytes, decoded 4027 bytes (INT32:99, FLOAT:96)"
+1,Estimator reset complete
+1,MW_BASERATE_PERIOD =  0.00250 MW_BASERATE_PRIORITY = 250 SIGRTMIN = 0x00000000
+3,Firmware Server Failed to Start -22
+1,Disarmed by external command
+3,get: param 65535 invalid
+3,parameter export to /fs/microsd/params failed (-1) attempt 2
+1,channel 0 got 14 bytes
+1,"Failed to init INA238 on bus 2, but will try again periodically."
+1,Mixer: /etc/mixers/pass.aux.mix on /dev/pwm_output1
+3,verify: failed (-1)
+1,Found range finder with instance 0
+1,Armed by RC (switch)
+1,"BSON document size 2684 bytes, decoded 2684 bytes"
+1,logger started (mode=all)
+1,"0 (73233) EST:0 offset: [-0.174, -0.130, 0.033]->[-0.179, -0.114, 0.028] (full [-0.362, 0.362, -0"
+3,get: param 65535 invalid
+2,Preflight Fail: Flight termination active
+3,bmi088: no instance started (no device on bus?)
+1,[logger] /fs/microsd/log/2023-03-27/18_22_52.ulg
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+2,bmi055: no instance started (no device on bus?)
+1,Kill disengaged
+2,Preflight Fail: Flight termination active
+2,Preflight: GPS Hor Speed Drift too high
+2,Connection to mission computer lost
+1,Connection to ground station lost
+1,Start file log (type: full)
+1,storage array (custom defaults): 0/1833 elements (256 bytes total)
+1,selected parameter default file /fs/mtd_params
+1,Start file log (type: full)
+1,#前飞构型、、、
+1,reset fake position fusion
+3,param export failed (1)
+1,[cal] progress <34>
+1,"reset position to last known (0.000, -0.000)"
+1,0 - mag sensor ID changed 32704 -> 8944899
+3,get: param 65535 invalid
+2,RTT too high for timesync: 15 ms
+1,0
+1,"roll = 0.0038, pitch = -0.0091, yaw = -0.2837"
+1,Armed by RC (switch)
+1,"0 (8944643) EST:0 offset: [0.197, -0.113, -0.334]->[0.199, -0.108, -0.334] (full [0.204, -0.088,"
+1,"multi_mode: 1, replay_mode: 0"
+1,[logger] /fs/microsd/log/2025-08-01/14_58_46.ulg
+1,[logger] /fs/microsd/log/2025-08-06/03_57_52.ulg
+3,get: param 65535 invalid
+1,"0 (466977) EST:0 offset: [0.040, 0.142, -0.053]->[0.024, 0.096, -0.037] (full [-0.008, -0.056, 0."
+2,Preflight Fail: Kill switch engaged
+3,importing failed (-1)
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+1,[logger] /fs/microsd/log/2025-08-01/16_55_59.ulg
+3,node spin error -8
+2,Preflight Fail: height estimate not stable
+3,instance 0: RADIO_STATUS timeout
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+2,Mission rejected: the landing glide slope is steeper than the vehicle setting of 5.0 degre
+1,open battery charge mos : response success 52
+2,RTT too high for timesync: 15 ms
+2,Preflight: GPS Horizontal Pos Error too high
+1,Opened full log file: /fs/microsd/log/2025-08-08/01_54_04.ulg
+1,"0 (466977) EST:2 offset: [0.016, 0.067, -0.025]->[0.010, 0.047, -0.016] (full [-0.012, -0.057, 0."
+2,Preflight Fail: No connection to the ground control station
+1,lpwork_thread : 612 free
+2,Connection to mission computer lost
+3,node spin error -8
+1,MulticopterRateControl vtol 模式启动
+1,Kill disengaged
+3,get: param 65535 invalid
+3,parameter export to /fs/microsd/params failed (-1) attempt 2
+2,no broadcasting address found
+3,param export failed (-1)
+2,Disarming denied: not landed
+3,get: param 65535 invalid
+1,Call to pthread_attr_setstacksize returned status (0)
+1,[logger] /fs/microsd/log/2025-08-07/08_10_59.ulg
+2,Arming denied: Resolve system health failures first
+2,RTT too high for timesync: 18 ms
+1,Autotune started
+1,Armed by RC
+3,Task start failed (-1)
+3,Network could not be saved!
+1,Opened full log file: /fs/microsd/log/2025-08-05/09_04_45.ulg
+3,bmi088: no instance started (no device on bus?)
+1,Executing Mission
+1,[logger] /fs/microsd/log/2025-08-05/13_41_34.ulg
+1,Kill-switch disengaged
+1,Disarmed by RC (switch)
+2,Failsafe enabled: No manual control stick input
+2,RTT too high for timesync: 13 ms
+1,"roll = 0.0039, pitch = -0.0089, yaw = -0.2838"
+3,verify: failed (-1)
+3,PWM_SERVO_SET_ARM_OK
+1,"closed logfile, bytes written: 2088704"
+3,killed: node name overflow
+1,selected parameter default file /fs/mtd_params
+2,Preflight: GPS Speed Accuracy too low
+1,"force: [0.000000, 0.000000, 6.245427], torque: [0.015735, 0.043944, 0.000541]"
+2,"no gyro selected, using sensor_gyro_fifo:0 3407898"
+1,GPS checks passed
+1,Start file log (type: full)
+1,Opened full log file: /fs/microsd/log/2025-08-08/03_49_36.ulg
+1,"successfully created rt/fmu/out/position_setpoint_triplet data writer, topic id: 185"
+3,bmi088: no instance started (no device on bus?)
+1,Start file log (type: full)
+3,couldn't start parameter count: -2
+2,no device on bus 4 (type: 2)
+2,Preflight Fail: Yaw estimate error
+2,Preflight Fail: Flight termination active
+1,"closed logfile, bytes written: 940393"
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+1,Armed by RC (switch)
+3,Battery 2: over voltage.
+3,get: param 65535 invalid
+2,wq:uavcan low on stack! (228 bytes left)
+2,Preflight Fail: heading estimate not stable
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+1,"mode: Onboard, data rate: 46080 B/s on /dev/ttyS1 @ 921600B"
+1,wp storage array size is: 29
+2,Preflight Fail: Yaw estimate error
+3,Task already running
+3,ms4525do: no instance started (no device on bus?)
+3,"vehicle_command_ack lost, generation 2 -> 6"
+1,"Node ID 1, bitrate 1000000"
+1,Armed by RC (switch)
+2,Arming denied: Resolve system health failures first
+1,Pilot took over using sticks
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+1,Armed by RC (switch)
+2,Preflight: GPS PDOP too high
+1,[logger] /fs/microsd/log/2025-08-06/14_41_39.ulg
+2,RTT too high for timesync: 16 ms
+1,selected parameter default file /fs/mtd_params
+1,IO FW CRC match
+2,mavlink for device /dev/ttyS1 is not running
+1,#速度9米每秒、、、
+3,FTP: Open failed - out of sessions
+3,param export failed (-1)
+1,Executing Mission
+1,Start mavlink log
+1,"successfully created rt/fmu/out/vehicle_gps_position data writer, topic id: 215"
+1,Armed by RC switch
+1,Armed by RC
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+1,Executing Mission
+1,card formatted
+3,unknown param ID: 1077
+1,Disarmed by landing
+2,Preflight Fail: Flight termination active
+3,get: param 65535 invalid
+1,0 - mag sensor ID changed 23 -> 8944899
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+1,"closed logfile, bytes written: 1084831"
+1,"1 (396809) EST:0 offset: [-0.282, 0.032, -0.115]->[-0.272, 0.036, -0.115] (full [-0.207, 0.061, -"
+1,Opened full log file: /fs/microsd/log/2025-08-06/07_58_27.ulg
+1,"closed logfile, bytes written: 2597"
+2,Preflight Fail: height estimate not stable
+1,u-blox protocol version: 27.50
+3,verify: 'BAT1_A_PER_V' invalid BSON value nan (expected nan)
+1,"Node ID 1, bitrate 1000000"
+3,parameter export to /fs/mtd_params failed (1) attempt 1
+1,MAVLink module is running and logging!
+2,Preflight Fail: horizontal velocity unstable
+1,"GNSS版本信: #VERSIONA,84,GPS,UNKNOWN,1,366370800,0,0,18,46;""UM982"",""R4.10Build11826"",""HRPT00-S10C-P"",""2310415000012-LR23A1224533903"",""ff3b54990d88e1fd"",""2023/11/24"""
+1,Connection to ground station lost
+1,Septentrio GNSS receiver COM port: COM1
+1,IO FW CRC match
+1,[logger] /fs/microsd/log/2025-08-08/03_02_53.ulg
+1,MAG switch from #0 -> #1
+3,get: param 65535 invalid
+3,"init failed, vehicle_attitude already advertised"
+1,Disarmed by RC (switch)
+1,"force: [0.000000, 0.000000, 27.947590], torque: [0.085048, -0.024185, -0.000555]"
+1,">>>> path_init: path_size=318 bytes, chunk_number=4"
+2,"No valid mission available, refusing takeoff."
+1,Disarmed by RC (switch)
+3,bmi055: no instance started (no device on bus?)
+1,Start file log (type: full)
+3,PWM_SERVO_GET_COUNT
+3,instance 0: RADIO_STATUS timeout
+1,Connected at 921600 baud
+1,channel 1 got 14 bytes
+3,param export failed (-1)
+1,"9289340: EKF aligned, (baro hgt, IMU buf: 18, OBS buf: 14)"
+3,param export failed (-1)
+1,Armed by external command
+1,"---zwz: forward_message: sysid=255, compid=190, msgid=73, cmd=0"
+1,GPS is good?    OK
+3,ms4525do: no instance started (no device on bus?)
+1,Disarmed by landing
+1,"mode: Onboard, data rate: 100000 B/s on /dev/ttyACM0 @ 2000000B"
+2,Preflight: GPS Horizontal Pos Drift too high
+2,Preflight Fail: Kill switch engaged
+1,"BSON document size 2243 bytes, decoded 2243 bytes (INT32:41, FLOAT:68)"
+1,"successfully created rt/fmu/out/vehicle_command_ack data writer, topic id: 246"
+2,Preflight Fail: Geofence violated
+2,Preflight Fail: Geofence RTL requires valid home
+3,bmi088: no instance started (no device on bus?)
+1,steam found and send
+1,"gyro 1 (3932170) updating offsets [0.045, -0.017, 0.022]->[0.055, -0.015, 0.023] 55.7 degC"
+1,"Serial Number: 0x3CDC, Firmware revision: 0x134 Date: Y 2024 DM 719"
+3,"vehicle_command_ack lost, generation 16151 -> 16153"
+1,"1 (396809) EST:0 offset: [-0.018, 0.055, -0.215]->[-0.012, 0.053, -0.215] (full [0.031, 0.039, -0"
+2,Preflight Fail: Kill switch engaged
+1,Precland activated
+1,"0 (4395041) EST:0 offset: [-0.085, 0.135, -0.048]->[-0.090, 0.145, -0.047] (full [-0.350, 0.485,"
+2,Preflight Fail: heading estimate not stable
+1,Opened full log file: /fs/microsd/log/2025-08-07/09_30_12.ulg
+1,"Dance ready, starting in 953 seconds"
+1,exceptions : 120 free
+3,get: param 65535 invalid
+1,Start file log (type: full)
+1,advertising node_id 125 on index 0
+3,configure_streams_to_default() failed
+1,logger started (mode=all)
+1,"successfully created rt/fmu/out/vehicle_odometry data writer, topic id: 261"
+1,Opened full log file: /fs/microsd/log/2025-08-07/01_30_33.ulg
+3,Valid SENS_TEMP_ID required
+1,u-blox protocol version: 27.40
+1,Start file log (type: full)
+1,Data link regained
+1,"0 (396825) EST:1 offset: [0.205, 0.048, -0.226]->[0.189, 0.048, -0.226] (full [0.064, 0.059, -0.2"
+1,Kill-switch disengaged
+3,"vehicle_command_ack lost, generation 257 -> 294"
+1,FF CAN ESC driver started
+1,Start file log (type: full)
+3,"COMMAND_LONG vehicle_command lost, generation 1214 -> 1247"
+1,Septentrio GNSS receiver COM port: COM1
+1,Armed by external command
+1,try baud 115200
+1,Kill disengaged
+2,Preflight: GPS Horizontal Pos Drift too high
+2,Preflight Fail: Strong magnetic interference
+1,Start file log (type: full)
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS1 @ 57600B"
+2,time sync no longer converged
+3,get: param 65535 invalid
+2,RTT too high for timesync: 109 ms
+1,[logger] /fs/microsd/log/2025-08-10/07_13_47.ulg
+1,Start file log (type: full)
+3,"Failed to communicate with IO, abort."
+2,Preflight Fail: Kill switch engaged
+2,"no gyro selected, using sensor_gyro_fifo:0 3670026"
+2,Preflight Fail: Kill switch engaged
+1,"BSON document size 2189 bytes, decoded 2189 bytes (INT32:49, FLOAT:56)"
+2,Preflight Fail: Kill switch engaged
+2,Preflight Fail: position estimate error
+2,no broadcasting address found
+1,[logger] /fs/microsd/log/2025-08-06/08_38_39.ulg
+3,Parameter MAV_2_BROADCAST not found.
+1,already running
+1,"0 (527633) EST:0 offset: [0.018, -0.161, 0.279]->[0.435, -0.119, 0.281] (full [1.553, 1.299, 0.45"
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+3,Parameter MAV_2_UDP_PRT not found.
+1,Registered Topic for 0x1 0x4
+3,bmi088: no instance started (no device on bus?)
+3,get: param 65535 invalid
+1,PX4IO Not Supported
+1,"DEBUG_RC, filter_rc_input_yaw, lead_lag_1st"
+1,BARO switch from #0 -> #1
+1,"closed logfile, bytes written: 289421"
+1,Kill-switch disengaged
+1,Disarmed by RC (switch)
+1,Armed by RC (switch)
+3,bmi055: no instance started (no device on bus?)
+1,[logger] /fs/microsd/log/2025-08-06/14_21_21.ulg
+1,"rc wp seq:21,lat:30.269862,lon:119.973811,alt:85.000000"
+2,Preflight Fail: Kill switch engaged
+2,Preflight Fail: Attitude failure (roll)
+1,"Home position set to: x: 0.011, y: 0.119, z: -0.564, yaw: 1.486"
+1,"successfully created rt/fmu/out/vehicle_attitude data writer, topic id: 242"
+3,parameter export to /fs/mtd_params failed (-1) attempt 1
+3,Battery 1: failed to arm.
+1,Start file log (type: full)
+1,Armed by external command
+1,vdrift:    OK
+1,Armed by RC
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS0 @ 115200B"
+2,"Reduce the glide slope, lower the entrance altitude 33 meters, or increase the landing app"
+2,Preflight Fail: Yaw estimate error
+1,6 raw flags = 16842753 sz 36
+2,Arming denied: Resolve system health failures first
+1,Opened full log file: /fs/microsd/log/2023-03-27/19_27_27.ulg
+3,get: param 65535 invalid
+1,IO FW CRC match
+1,Detached: Normal rate Integral
+3,"Dangerous battery level, land now"
+1,"Node ID 1, bitrate 1000000"
+2,Switching to Mission is currently not available
+3,"action_request lost, generation 12 -> 14"
+1,Disarmed by landing
+1,"0 (4395041) EST:0 offset: [-0.077, 0.110, -0.048]->[-0.080, 0.117, -0.048] (full [-0.205, 0.411,"
+3,failed to initialize mtd driver
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+1,Publishing standard tune 1
+1,u-blox firmware version: SPG 4.04
+1,UART4串口初始化成功
+1,Takeoff detected
+2,Disarming denied: not landed
+1,GPS VER: 1.1.1 CRC: AE929860
+1,EKF GPS checks passed (WGS-84 origin set)
+2,"no gyro selected, using sensor_gyro_fifo:0 4325386"
+3,failed to get CAL_GYRO3_ID
+2,Preflight: GPS Horizontal Pos Drift too high
+1,[cal] pending: back front left right
+1,Start file log (type: full)
+3,Parameter PWM_AUX_FUNC3 not found.
+2,RTT too high for timesync: 11 ms
+2,_instance->_task: 392
+1,[cal] progress <34>
+3,Battery 2: over voltage.
+1,Updating SENS_BOARD_X_OFF 0.2 -> 0.6 degrees
+1,"0 (396825) EST:0 offset: [-0.024, 0.183, -0.052]->[-0.022, 0.168, -0.058] (full [0.053, -0.060, -"
+1,exiting channel 1
+1,selected parameter default file /fs/mtd_params
+1,Starting mavlink on /dev/ttyACM0 (SYS_USB_AUTO=2)
+1,Start file log (type: full)
+2,ubx msg 0x0a09 invalid len 56
+1,Error: ll40ls reset failure. Exiting!
+1,"0 (466977) EST:1 offset: [0.024, 0.096, -0.037]->[0.016, 0.067, -0.025] (full [-0.009, -0.056, 0."
+1,[logger] /fs/microsd/log/2025-08-07/07_09_28.ulg
+2,Preflight: GPS Horizontal Pos Drift too high
+1,Reallocating path buffer
+2,Preflight Fail: No connection to the ground control station
+2,RTT too high for timesync: 15 ms
+1,Registered Topic for 0x5 0x1
+3,get: param 65535 invalid
+1,"0 (4395041) EST:2 offset: [-0.094, 0.152, -0.047]->[-0.099, 0.161, -0.046] (full [-0.357, 0.480,"
+1,[cal] hold vehicle still on a pending side
+1,"instance: 0, max rate: 100, default: 50, alt: 50"
+2,"no gyro selected, using sensor_gyro_fifo:0 2490402"
+3,open '/fs/mtd_caldata' failed (2)
+1,"---zwz: forward_message: sysid=255, compid=190, msgid=43, cmd=0"
+2,ubx msg 0x0a09 invalid len 56
+1,"0 (396825) EST:2 offset: [-0.298, 0.030, 0.167]->[-0.304, 0.033, 0.167] (full [-0.397, 0.065, 0.0"
+1,Start file log (type: full)
+2,ist8310: no instance started (no device on bus?)
+1,"total:31902400512, needed:209715200"
+3,get: param 65535 invalid
+2,Preflight Fail: Kill switch engaged
+1,channel 0 got 14 bytes
+2,Using non-standard baudrate: 420000
+1,Takeoff detected
+2,Preflight: GPS Horizontal Pos Drift too high
+1,Connected in 14.325986 seconds
+1,Kill-switch disengaged
+1,qq_ver1=16780800
+1,"successfully created rt/fmu/out/estimator_status_flags data writer, topic id: 87"
+2,hmc5883: no instance started (no device on bus?)
+1,Using default takeoff altitude: 1.5 m
+1,"successfully created rt/fmu/out/vehicle_control_mode data writer, topic id: 249"
+2,Arming denied: Resolve system health failures first
+3,get: param 65535 invalid
+1,Disarmed by landing
+1,[cal] progress <69>
+3,PWM_SERVO_SET_SELECT_UPDATE_RATE
+1,Kill engaged
+1,"0 (466977) EST:0 offset: [-0.001, 0.046, -0.025]->[-0.005, 0.049, -0.019] (full [-0.111, 0.107, 0"
+1,Start file log (type: full)
+1,Chunks allocate 10290 bytes from 50000 available
+2,Preflight Fail: Flight termination active
+2,Manual control lost
+1,channel 0 got 14 bytes
+2,Preflight: GPS fix too low
+1,set mode Lp_0.7
+3,Battery 1: over voltage.
+1,Connection to ground station lost
+2,Arming denied: high throttle
+2,Preflight Fail: Kill switch engaged
+2,Preflight Fail: height estimate not stable
+1,Armed by RC switch
+1,logger started (mode=all)
+1,Returning to launch
+3,get: param 65535 invalid
+2,Preflight Fail: Kill switch engaged
+1,uart fd = 3
+1,Disarmed by RC switch
+3,/dev/ttyACM0 already running
+1,Kill engaged
+1,Armed by RC (switch)
+1,"closed logfile, bytes written: 8361979"
+1,Start file log (type: full)
+1,Opened full log file: /fs/microsd/log/2023-03-27/18_03_03.ulg
+2,Preflight Fail: Attitude failure (roll)
+1,Using default takeoff altitude: 0.5 m
+1,"successfully created rt/fmu/out/failsafe_flags data writer, topic id: 80"
+1,"All points are in fence (1 ms, 1 tested)"
+1,u-blox protocol version: 27.50
+3,timeout after 5000 ms!
+1,"successfully created rt/fmu/out/vehicle_local_position_setpoint data writer, topic id: 258"
+3,"Can't open log file /fs/microsd/log/sess100/log100.ulg, errno: 2"
+1,Opened full log file: /fs/microsd/log/2025-08-07/09_35_12.ulg
+1,[cal] pending: left right
+2,Preflight: GPS fix too low
+1,Starting CDC/ACM autostart
+1,u-blox module: NEO-M9N
+2,Preflight Fail: Kill switch engaged
+3,Failed to get client ID!
+1,channel 1 got 14 bytes
+1,"successfully created rt/fmu/out/timesync_status data writer, topic id: 191"
+3,parameter export to /fs/mtd_params failed (1) attempt 1
+3,unknown param ID: 610
+1,u-blox protocol version: 27.12
+2,Preflight Fail: Yaw estimate error
+1,[logger] /fs/microsd/log/2025-08-08/07_09_37.ulg
+3,get: param 65535 invalid
+1,importing from '/fs/mtd_params'
+2,Failure: Kill switch engaged
+1,Kill-switch engaged
+1,u-blox firmware version: HPG 1.32
+1,"cmd :6, param1: 52 param2: 165 param3: 0"
+3,Parameter BAT2_V_DIV not found.
+1,selected parameter default file /fs/mtd_params
+2,hmc5883: no instance started (no device on bus?)
+3,get: param 65535 invalid
+1,Start file log (type: full)
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+2,Preflight Fail: Kill switch engaged
+1,partner IP: 192.168.100.31
+2,PX4_Simulink_Task low on FDs! (1 FDs left)
+1,Armed by external command
+1,"BSON document size 4192 bytes, decoded 4192 bytes (INT32:87, FLOAT:114)"
+1,"0 (527633) EST:1 offset: [0.435, -0.119, 0.281]->[0.657, -0.077, 0.282] (full [1.558, 1.302, 0.44"
+3,get: param 65535 invalid
+1,Armed by external command
+1,"Node ID 1, bitrate 1000000"
+3,verify: failed (-1)
+2,Preflight: GPS Horizontal Pos Drift too high
+1,Disarmed by RC (switch)
+1,ist8310 main start...
+1,Start file log (type: full)
+1,logger started (mode=all)
+3,Firmware Server Failed to Start -22
+1,Path CRC 3E7A8017  OK
+1,"instance: 0, max rate: 100, default: 50, alt: 50"
+1,Opened full log file: /fs/microsd/log/2021-02-18/23_59_04.ulg
+1,Start file log (type: full)
+1,device = /dev/ttyS3
+1,"param auto save unavailable (-1), retrying.."
+1,Start file log (type: full)
+3,not starting (use px4io for safety button)
+1,stop fake position fusion
+1,RC scan: SBUS RC input locked
+1,importing from '/fs/mtd_params'
+1,[logger] /fs/microsd/log/2021-02-18/23_59_52.ulg
+1,[Crawl] 停止: pwm = 0
+1,Starting CDC/ACM autostart
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+3,system boot did not complete in 20 seconds
+2,Preflight Fail: height estimate error
+2,[cal] calibration failed: Timeout waiting for battery
+1,logger started (mode=all)
+2,Preflight Fail: Kill switch engaged
+2,ms5611: no instance started (no device on bus?)
+2,Geofence: exceeding maximum altitude above Home
+1,"0 (396825) EST:0 offset: [-0.286, 0.026, 0.168]->[-0.292, 0.028, 0.168] (full [-0.406, 0.055, 0.0"
+2,Preflight Fail: Yaw estimate error
+1,Successfully set system time
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 921600B"
+1,[logger] /fs/microsd/log/2025-08-01/16_00_23.ulg
+1,"closed logfile, bytes written: 1143113"
+1,ACC 1 (2490378) offset committed: [0.035 0.050 -0.190]->[-0.043 0.060 -0.190])
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS1 @ 57600B"
+2,Session was closed without activity
+1,initialised
+3,bmi088: no instance started (no device on bus?)
+1,selected parameter default file /fs/mtd_params
+1,[logger] /fs/microsd/log/2025-08-09/06_45_32.ulg
+2,Not arming: Preflight checks failed
+2,Preflight Fail: Avionics Power low:   4.79 Volt
+2,GPS reports spoofing indicated
+1,Mag sensor ID changed to 197388
+1,Disarmed by landing
+1,Disarmed by landing
+1,Kill-switch disengaged
+2,Preflight Fail: Strong magnetic interference
+1,Start file log (type: full)
+1,storage array: 113/1833 elements (928 bytes total)
+1,Armed by external command
+3,no ADC found: /dev/adc0 (2)
+1,Recalculate Path fitting.
+2,Preflight Fail: Kill switch engaged
+3,Parameter MAV_2_BROADCAST not found.
+2,Preflight Fail: heading estimate not stable
+1,Armed by external command
+1,u-blox protocol version: 34.10
+2,Using non-standard baudrate: 420000
+1,"1 (8944899) EST:0 offset: [-0.037, -0.027, -0.959]->[0.038, -0.057, -0.949] (full [0.093, -0.080,"
+3,timeout after 5000 ms!
+3,killed: unsupported node type
+3,GetSet error during param count
+2,Preflight Fail: heading estimate not stable
+1,Takeoff detected
+1,Opened full log file: /fs/microsd/log/sess100/log102.ulg
+2,Preflight: GPS Horizontal Pos Error too high
+1,read path chunk: type 1  offset 0  time 0 ms /fs/microsd/MY.PATH
+1,Connection to ground station lost
+1,u-blox firmware version: SPG 5.10
+1,**creating the terminate thread before calling pthread_create**
+3,FTP: Open failed - out of sessions
+2,Preflight Fail: No connection to the ground control station
+2,"Reduce the glide slope, lower the entrance altitude 33 meters, or increase the landing app"
+1,open OK
+2,Preflight Fail: Kill switch engaged
+1,u-blox firmware version: HPG 1.13
+1,[logger] /fs/microsd/log/2025-08-08/08_23_26.ulg
+3,PWM_SERVO_GET_COUNT
+1,"rc wp seq:4,lat:30.285734,lon:120.001549,alt:120.000000"
+1,"starting instance 1, IMU:1 (3932170), MAG:0 (0), GPS:0 (0)"
+2,Failsafe activated
+3,get: param 65535 invalid
+2,Preflight: GPS PDOP too high
+1,Takeoff detected
+2,Preflight Fail: Vehicle is not in multicopter mode
+1,u-blox protocol version: 32.01
+2,Preflight: not enough GPS Satellites
+2,Preflight Fail: Yaw estimate error
+3,failed to initialize mtd driver
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+1,Onboard controller regained
+1,"Serial Number: 0x3E0F, Firmware revision: 0x134 Date: Y 2024 DM 729"
+1,FlightTaskAuto.cpp L358
+1,Opened full log file: /fs/microsd/log/2025-08-07/10_28_40.ulg
+1,channel 1 got 15 bytes
+3,Firmware Server Failed to Start -22
+1,"MESSAGE DATA96 with data: chunk_id=0, size=84"
+2,Preflight Fail: Kill switch engaged
+1,[logger] /fs/microsd/log/2025-07-23/08_29_13.ulg
+1,[logger] /fs/microsd/log/2025-08-07/08_26_31.ulg
+1,Opened full log file: /fs/microsd/log/2025-08-09/09_22_38.ulg
+1,Takeoff detected
+1,Writing attitude offset
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+1,[logger] /fs/microsd/log/2025-07-22/10_05_33.ulg
+2,Preflight Fail: Yaw estimate error
+1,"starting EV position fusion, resetting state"
+2,RTT too high for timesync: 14 ms
+1,Starting mavlink shell
+2,Arming denied: Resolve system health failures first
+2,[timesync] RTT too high for timesync: 15 ms (sender: 240)
+3,couldn't start parameter count: -2
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+1,[logger] /fs/microsd/log/2025-08-06/03_09_25.ulg
+3,status: 0 status: 0
+1,Opened full log file: /fs/microsd/log/2025-08-07/05_28_54.ulg
+1,"closed logfile, bytes written: 212583"
+1,#速度20米每秒、、、
+2,Disarming denied: not landed
+1,Executing Mission
+1,Disarmed by RC (switch)
+2,Session was closed without activity
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+3,param export failed (-1)
+1,IO FW CRC match
+3,Network could not be saved!
+1,卫星系统禁用配置:
+1,Opened full log file: /fs/microsd/log/2025-08-08/09_14_57.ulg
+1,Start file log (type: full)
+3,"vehicle_command_ack lost, generation 3871 -> 3884"
+1,Preflight Fail: No manual control input
+2,Already running on bus 1
+1,try baud 19200
+3,verify: failed (-1)
+2,Failsafe: stop and wait
+1,"roll = 0.0036, pitch = -0.0092, yaw = -0.2836"
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+2,"no gyro selected, using sensor_gyro_fifo:0 4325386"
+1,reset position to ev position
+1,[logger] /fs/microsd/log/2025-08-07/08_02_51.ulg
+1,yz sbus enable
+3,get: param 65535 invalid
+1,"init UDP agent IP:10.0.0.1, port:8888"
+3,Parameter MAV_2_UDP_PRT not found.
+2,RTT too high for timesync: 106 ms
+1,Armed by RC (switch)
+1,Opened full log file: /fs/microsd/log/2025-08-09/17_11_35.ulg
+3,get: param 65535 invalid
+1,[cal] Connect battery now
+1,Armed by RC
+1,RC scan: CRSF RC input locked
+1,LED RGB scale set to 0.30 percent
+1,[logger] /fs/microsd/log/2025-08-06/08_09_21.ulg
+2,Preflight Fail: Kill switch engaged
+1,"Failed to init INA228 on bus 1, but will try again periodically."
+1,[logger] /fs/microsd/log/2025-08-06/10_49_03.ulg
+1,Kill-switch disengaged
+2,no broadcasting address found
+1,"0 (527633) EST:0 offset: [0.004, 0.047, 0.444]->[-0.076, 0.031, 0.441] (full [-0.249, -0.064, 0.3"
+2,Preflight Fail: heading estimate not stable
+2,Preflight Fail: velocity estimate error
+1,Opened full log file: /fs/microsd/log/2025-08-07/09_32_32.ulg
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS3 @ 57600B"
+1,"instance: 0, max rate: 100, default: 50, alt: 50"
+3,parameter export to /fs/mtd_params failed (-1) attempt 3
+3,Low battery level
+1,Start mavlink log
+1,data manager RAM size is 68528 bytes
+1,"Node ID 1, bitrate 1000000"
+3,instance 0: RADIO_STATUS timeout
+3,"action_request lost, generation 12 -> 14"
+1,Armed by RC
+1,Armed by RC
+2,Switching to Position is currently not available
+2,Preflight Fail: Avionics Power low:   4.79 Volt
+3,GetSet error during param count
+1,not init tilt
+1,"force: [0.000000, 0.000000, -0.398144], torque: [0.023324, 0.262374, 0.001883]"
+1,"closed logfile, bytes written: 14072492"
+3,invalid baud rate 'p:SER_GPS2_BAUD'
+1,Starting CDC/ACM autostart
+3,Parameter MAV_2_UDP_PRT not found.
+2,invalid setpoints
+1,[logger] /fs/microsd/log/2025-08-08/09_06_16.ulg
+3,system boot did not complete in 20 seconds
+2,GNSS Fix2 msg detected for ch 0; disabling Fix msg for this node
+3,unknown param: SYSID_CK
+1,"successfully created rt/fmu/out/vehicle_odometry data writer, topic id: 261"
+2,Preflight: GPS Horizontal Pos Drift too high
+1,Armed by RC switch
+3,parameter export to /fs/mtd_params failed (-1) attempt 1
+1,Start file log (type: full)
+1,Start file log (type: full)
+1,">>>> path_init: path_size=321 bytes, chunk_number=4"
+2,Kill-switch engaged
+1,"gyro 2 (4325386) updating offsets [-0.014, 0.001, -0.001]->[-0.002, 0.001, -0.001] nan degC"
+1,"0 (396825) EST:1 offset: [-0.304, 0.033, 0.167]->[-0.312, 0.031, 0.168] (full [-0.413, 0.013, 0.3"
+2,Preflight Fail: Flight termination active
+1,GCS connection regained
+1,"mode: Normal, data rate: 100000 B/s on udp port 14550 remote port 14550"
+1,"[cal] up side done, rotate to a different side"
+3,get: param 65535 invalid
+3,verify: 'BAT1_A_PER_V' invalid BSON value nan (expected nan)
+1,"closed logfile, bytes written: 529809"
+2,Preflight Fail: Press safety button first
+2,"no gyro selected, using sensor_gyro_fifo:0 2490386"
+1,[logger] /fs/microsd/log/2025-08-07/08_18_35.ulg
+2,Preflight Fail: height estimate error
+1,"force: [0.000000, 0.000000, -0.104497], torque: [0.185305, -0.718220, 0.005740]"
+1,time sync converged
+1,Armed by RC switch
+1,FlightTaskAuto.cpp L616
+1,u-blox protocol version: 32.01
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+1,IO FW CRC match
+1,[cal] up side result: [-0.627 0.233 9.779]
+2,REJECT POSITION CONTROL
+1,FlightTaskAuto.cpp L616
+1,[logger] /fs/microsd/log/2025-08-07/09_00_37.ulg
+2,Preflight Fail: Avionics Power low:   4.77 Volt
+1,Armed by external command
+1,Registered Topic for 0x6 0x8
+1,Pilot took over position control using sticks
+2,Preflight Fail: heading estimate not stable
+1,setting PWM_AUX_OUT none
+2,IGN MISSION_ITEM: No transfer
+1,Failsafe mode activated
+1,u-blox firmware version: HPG 1.13
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+3,get: param 65535 invalid
+1,"Node ID 1, bitrate 1000000"
+1,u-blox protocol version: 18.00
+1,0 - selected distance_sensor:0
+2,IGN MISSION_ITEM: No transfer
+1,Disarmed by RC (switch)
+1,IO FW CRC match
+1,"Node ID 1, bitrate 1000000"
+3,Parameter MAV_2_BROADCAST not found.
+1,#抬总距、、、、、
+1,Armed by external command
+1,Start file log (type: full)
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,Takeoff detected
+2,GPS spoofing detected! (state: 2)
+2,WPM: REJ. CMD: Req. WP was unexpected
+1,Manual control regained after 0.5s
+1,"BSON document size 2936 bytes, decoded 2936 bytes (INT32:68, FLOAT:74)"
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+1,"roll = 0.0037, pitch = -0.0091, yaw = -0.2836"
+3,node spin error -8
+1,Opened full log file: /fs/microsd/log/2025-08-10/00_05_08.ulg
+1,"instance: 0, max rate: 100, default: 50, alt: 50"
+3,param auto save failed (-1)
+3,FTP: Open failed - out of sessions
+1,"mode: Onboard, data rate: 80000 B/s on /dev/ttyS0 @ 921600B"
+1,"force: [0.000000, 0.000000, 0.767580], torque: [-0.100674, -0.011184, 0.000294]"
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+3,stat failed read: No such file or directory
+1,"[cal] detected motion, hold still..."
+1,logger started (mode=all)
+1,msgcode.uat  complete.
+3,param export failed (-1)
+3,get: param 65535 invalid
+3,unknown param ID: 1011
+1,Armed by external command
+3,parameter export to /fs/mtd_params failed (-1) attempt 1
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+1,logger started (mode=all)
+1,logger started (mode=all)
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS0 @ 57600B"
+3,pcf8583 loop called too early
+1,Start file log (type: mission)
+3,"0 - accel 3604514 timestamp error timestamp_sample: 295382, previous timestamp_sample: 295394"
+3,Parameter PWM_AUX_FUNC3 not found.
+1,selected parameter default file /fs/mtd_params
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+2,Preflight Fail: Attitude failure (pitch)
+1,valid device required
+1,"mode: Onboard, data rate: 100000 B/s on /dev/ttyACM0 @ 2000000B"
+2,Preflight: GPS Hor Speed Drift too high
+1,MulticopterAttitudeControl vtol 模式启动
+1,"0 (396321) EST:1 offset: [-0.040, 0.082, 0.047]->[-0.037, 0.078, 0.049] (full [0.027, 0.005, 0.27"
+1,"closed logfile, bytes written: 1112774"
+2,Preflight Fail: heading estimate not stable
+3,bmi088: no instance started (no device on bus?)
+1,Disarmed by lockdown
+1,"Node ID 1, bitrate 1000000"
+2,Preflight Fail: Press safety button first
+1,"NMEA ""UM982"" ""R4.10Build11826"" ""2023/11/24"""
+1,Starting CDC/ACM autostart
+1,"mode: Onboard, data rate: 46080 B/s on /dev/ttyS1 @ 921600B"
+3,get: param 65535 invalid
+1,logger started (mode=all)
+2,Preflight Fail: no valid data from Accel 1
+3,importing failed (-1)
+1,"successfully created rt/fmu/out/vehicle_angular_velocity data writer, topic id: 240"
+1,"MESSAGE DATA96 with data: chunk_id=0, size=84"
+1,"Node ID 1, bitrate 1000000"
+1,"successfully created rt/fmu/out/vehicle_status data writer, topic id: 266"
+1,Starting mavlink shell
+1,u-blox firmware version: HPG 1.32
+1,"1 (396809) EST:0 offset: [0.068, 0.062, 0.190]->[0.061, 0.063, 0.191] (full [0.024, 0.078, 0.191]"
+3,importing from '/fs/mtd_caldata' failed (-1)
+1,"mode: Normal, data rate: 5760 B/s on /dev/ttyS7 @ 115200B"
+2,[timesync] RTT too high for timesync: 12 ms (sender: 191)
+1,"closed logfile, bytes written: 61171313"
+1,Armed by external command
+1,"Get Esc Firmware Version: fw_ver: 404, hw_ver: 0 bl_ver:0"
+3,mtd failure: -6 bus 2 address 0 class 1
+3,parameter export to /fs/mtd_params failed (1) attempt 1
+1,Opened full log file: /fs/microsd/log/2025-08-07/01_57_05.ulg
+2,RTT too high for timesync: 13 ms
+1,Starting CDC/ACM autostart
+1,"Mission #2 loaded, 8 WPs, curr: 0"
+1,Armed by external command
+2,Preflight Fail: Kill switch engaged
+1,Armed by external command
+3,Device /dev/ttyACM0 does not exist
+3,bmi088: no instance started (no device on bus?)
+1,Landing detected
+2,input source changed 0 -> 4
+1,Stop mavlink log
+1,"Node ID 1, bitrate 1000000"
+1,Disarmed by RC (switch)
+3,get: param 65535 invalid
+3,"init failed, vehicle_attitude already advertised"
+1,"closed logfile, bytes written: 4319355"
+1,"closed logfile, bytes written: 1283331"
+2,Preflight Fail: Kill switch engaged
+3,"vehicle_command_ack lost, generation 21 -> 26"
+1,"DEBUG_RC,  --fc: 5.000000 hz"
+2,Preflight Fail: Kill switch engaged
+1,Start file log (type: full)
+3,Battery 2: over voltage.
+2,[cal] Blow into front of pitot without touching
+1,Armed by RC
+1,"instance: 0, max rate: 100, default: 50, alt: 50"
+2,primary EKF changed 1 (filter fault) -> 2
+1,[logger] /fs/microsd/log/2025-08-07/13_42_58.ulg
+1,"target_system: 1, mavlink_system.sysid: 2"
+2,Preflight: GPS Horizontal Pos Drift too high
+2,Preflight Fail: Yaw estimate error
+1,[logger] /fs/microsd/log/2025-08-06/16_09_41.ulg
+1,logger started (mode=all)
+1,[logger] /fs/microsd/log/2025-08-07/09_50_28.ulg
+2,Preflight Fail: Kill switch engaged
+3,Device /dev/ttyACM0 does not exist
+1,channel 1 got 14 bytes
+3,Battery 2: over voltage.
+1,Landing detected
+1,"[Crawl] Detected blockage, stopping motors"
+2,RTT too high for timesync: 124639 ms
+1,"Node ID 1, bitrate 1000000"
+2,Preflight Fail: heading estimate not stable
+1,Power VER: 0.0.1 CRC: 27DFBEB3
+1,"0 (458770) EST:2 offset: [0.008, -0.216, 0.000]->[0.012, -0.214, 0.003] (full [0.050, -0.184, 0.1"
+1,"1 (396809) EST:1 offset: [0.065, 0.062, -0.147]->[0.074, 0.058, -0.147] (full [0.299, -0.062, -0."
+1,GPS checks passed
+1,Executing Mission
+2,Preflight Fail: height estimate not stable
+1,"closed logfile, bytes written: 259300"
+1,Takeoff detected
+1,"0 (396321) EST:0 offset: [0.242, 0.340, -0.233]->[0.244, 0.351, -0.233] (full [0.318, 0.718, -0.1"
+1,logger started (mode=all)
+1,[logger] /fs/microsd/log/2025-08-07/08_26_51.ulg
+3,bmi055: no instance started (no device on bus?)
+1,u-blox protocol version: 18.00
+1,Opened full log file: /fs/microsd/log/2025-07-25/01_30_07.ulg
+3,verify: invalid parameter 'SDLOG_PR'
+1,importing from '/fs/mtd_params'
+1,[cal] progress <26>
+3,Parameter MPC_Z_TRAJ_P not found.
+3,"can't start sbus, it's running"
+1,FlightTaskAuto.cpp L616
+1,"Node ID 1, bitrate 1000000"
+1,"DEBUG_MISSION, mission 0 start fail!"
+3,Parameter BAT2_V_DIV not found.
+2,Preflight Fail: Yaw estimate error
+1,logger started (mode=all)
+2,Battery 1 disconnected. Land now!
+3,Low battery level
+1,Armed by RC
+3,bmi088: no instance started (no device on bus?)
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,Last gps fail(us): 31855420
+1,**creating the Base Rate thread before calling pthread_create**
+1,Disarmed by RC (switch)
+3,"COMMAND_LONG vehicle_command lost, generation 1214 -> 1247"
+1,Registered Topic for 0xA 0x4
+1,Starting CDC/ACM autostart
+1,5 raw flags = 16842753 sz 36
+1,sacc:    OK
+1,Opened full log file: /fs/microsd/log/2025-08-05/05_16_06.ulg
+3,Accel #0 fail:  TIMEOUT!
+1,Armed by RC (switch)
+2,Preflight Fail: Kill switch engaged
+2,Preflight Fail: Kill switch engaged
+3,Parameter MAV_2_UDP_PRT not found.
+2,Connection to mission computer lost
+1,Start file log (type: full)
+1,Setting channel 5 minimum to 1100
+2,Preflight Fail: Strong magnetic interference
+2,GNSS Fix2 msg detected for ch 0; disabling Fix msg for this node
+3,sdp3x: no instance started (no device on bus?)
+1,Kill engaged
+2,Preflight Fail: Yaw estimate error
+3,[timesync] Time jump detected. Resetting time synchroniser.
+1,[cal] pending: right
+1,FlightTaskAuto.cpp L358
+1,selected parameter default file /fs/mtd_params
+1,Start file log (type: full)
+1,Connection to ground station lost
+1,Starting CDC/ACM autostart
+2,Preflight: GPS fix too low
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 1500000B"
+1,"mode: Onboard, data rate: 46080 B/s on /dev/ttyS1 @ 921600B"
+2,Preflight Fail: Yaw estimate error
+1,"starting instance 0, IMU:0 (3932170), MAG:0 (397065)"
+3,Low battery level
+3,unknown param ID: 902
+1,Armed by RC
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS1 @ 115200B"
+1,MAG switch from #0 -> #1
+2,REJECT AUTO LAND
+1,selected parameter default file /fs/mtd_params
+1,Disarmed by RC
+2,Preflight: GPS Horizontal Pos Drift too high
+1,Disarmed by kill-switch
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+1,"mode: Onboard, data rate: 46080 B/s on /dev/ttyS1 @ 921600B"
+2,Preflight Fail: Kill switch engaged
+3,param auto save failed (-1)
+1,Dance init: DONE
+1,IO FW CRC match
+1,receive start.....
+1,Registered Topic for 0x1 0x6
+1,Configured primary gimbal control sysid/compid from 0/0 to 255/190
+2,Preflight Fail: Kill switch engaged
+2,AK09916 mag init failed
+1,"force: [0.000000, 0.000000, 4.994332], torque: [-0.166747, -0.233377, 0.002742]"
+1,[logger] /fs/microsd/log/2025-08-08/07_31_08.ulg
+2,Preflight Fail: Yaw estimate error
+1,[logger] /fs/microsd/log/2025-08-07/14_01_25.ulg
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+3,verify: 'CAL_ACC1_ID' invalid BSON value 1245202(expected 2490386)
+1,Starting CDC/ACM autostart
+3,bmp581: no instance started (no device on bus?)
+1,Start file log (type: full)
+2,Preflight Fail: Kill switch engaged
+1,Kill-switch engaged
+1,"1 (396809) EST:1 offset: [-0.001, -0.013, -0.063]->[-0.005, -0.010, -0.063] (full [-0.015, 0.001,"
+2,RTT too high for timesync: 11 ms
+2,Preflight Fail: No connection to the ground control station
+1,"Node ID 1, bitrate 1000000"
+1,"1 (8944387) EST:2 offset: [-0.053, 0.040, -0.064]->[-0.054, 0.046, -0.060] (full [-0.060, 0.069,"
+3,"Matching flight task was not able to run, Nav state: 1, Task: 1"
+1,Armed by RC (switch)
+3,CentralizedServer init: -13
+2,Preflight Fail: Accel 1 uncalibrated
+1,[cal] progress <46>
+1,partner IP: 192.168.100.31
+3,"action_request lost, generation 66 -> 68"
+1,IO FW CRC match
+1,"successfully created rt/fmu/out/estimator_status_flags data writer, topic id: 87"
+1,Data link regained
+2,Preflight Fail: height estimate not stable
+2,dataman low on stack! (260 bytes left)
+1,"closed logfile, bytes written: 944750"
+1,importing from '/fs/mtd_params'
+1,"successfully created rt/fmu/out/vehicle_odometry data writer, topic id: 261"
+1,Registered Topic for 0x6 0x8
+2,"Distance between waypoints too far: 1839 meters, 900 max."
+2,Preflight: GPS Speed Accuracy too low
+3,ms4525do: no instance started (no device on bus?)
+2,Waypoint could not be read.
+3,parameter export to /fs/mtd_params failed (1) attempt 1
+1,"EKF aligned, (pressure height, IMU buf: 22, OBS buf: 14)"
+1,time sync converged
+1,FUSE SLAM
+1,Disarmed by RC (switch)
+3,unknown param ID: 687
+3,Parameter MPC_Z_TRAJ_P not found.
+1,GPS 1: detected u-blox
+1,Armed by RC switch
+1,"Failed to init INA228 on bus 1, but will try again periodically."
+1,Starting mavlink on /dev/ttyACM0 (SYS_USB_AUTO=2)
+3,get: param 65535 invalid
+1,Kill-switch disengaged
+1,"successfully created rt/fmu/out/vehicle_optical_flow_vel data writer, topic id: 263"
+3,UBX CFG-GNSS message ACK failed
+3,Dance start: not ready (8)
+1,"mode: Config, data rate: 800000 B/s on /dev/ttyACM0 @ 57600B"
+1,[cal] left side result: [-0.210 10.193 0.515]
+3,ms4525do: no instance started (no device on bus?)
+1,Starting mavlink on /dev/ttyACM0 (SYS_USB_AUTO=2)
+1,"force: [0.000000, 0.000000, 0.152318], torque: [0.040682, 0.252635, 0.002749]"
+2,Preflight: GPS Speed Accuracy too low
+3,"create entities failed: rt/fmu/out/vehicle_command_ack, topic: 255 publisher: 255 datawriter: 255"
+3,I2C device not opened
+2,Arming denied: Resolve system health failures first
+1,IO FW CRC match
+1,GPS 1: probing for NMEA at 230400 baud
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,"1 (527625) EST:0 offset: [0.043, 0.206, 0.025]->[0.008, 0.197, 0.055] (full [-0.023, 0.172, 0.071"
+3,bmp581: no instance started (no device on bus?)
+1,partner IP: 10.20.2.19 port 14551
+1,**DONE! creating simulink task threads**
+1,Disarmed by landing
+1,"---zwz: forward_message: sysid=255, compid=190, msgid=73, cmd=0"
+2,Arming denied: Resolve system health failures first
+2,"input source changed to tablet, gcs id:18"
+3,bmi088: no instance started (no device on bus?)
+2,Preflight Fail: Kill switch engaged
+1,main........
+2,ubx msg 0x0a09 invalid len 56
+3,parameter export to /fs/mtd_params failed (-1) attempt 1
+1,"Airspeed sensor healthy, start using again (-1, 1)"
+2,dead reckon time exceeded
+2,"Path violates fence (0 ms, 1 tested)"
+1,Opened full log file: /fs/microsd/log/2025-08-07/07_09_28.ulg
+2,No capture channel configured
+2,Compass needs calibration - Land now!
+1,[logger] /fs/microsd/log/2025-08-04/21_46_08.ulg
+1,[logger] /fs/microsd/log/2025-08-08/01_54_04.ulg
+1,open battery charge mos : response success 53
+1,Initing iface 1...
+3,Battery 2: over voltage.
+3,bmi088: no instance started (no device on bus?)
+1,MAVLink only on localhost (set param MAV_{i}_BROADCAST = 1 to enable network)
+1,"successfully created rt/fmu/out/vehicle_status data writer, topic id: 266"
+2,Authorized service required
+1,Opened full log file: /fs/microsd/log/2025-08-09/02_33_05.ulg
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,Starting mavlink on /dev/ttyACM0 (SYS_USB_AUTO=2)
+1,Armed by RC switch
+2,Preflight Fail: Kill switch engaged
+2,Preflight: GPS Vertical Pos Drift too high
+1,"force: [0.000000, 0.000000, -0.038347], torque: [0.048893, 0.259906, 0.003025]"
+1,Opened full log file: /fs/microsd/log/2025-08-09/09_51_44.ulg
+1,"mode: Onboard, data rate: 80000 B/s on /dev/ttyS0 @ 921600B"
+3,"vehicle_command_ack lost, generation 257 -> 294"
+1,Opened full log file: /fs/microsd/log/2025-08-07/06_19_50.ulg
+1,time sync converged
+3,timeout after 5000 ms!
+1,Start file log (type: full)
+1,"successfully created rt/fmu/out/vehicle_status data writer, topic id: 229"
+1,Disarmed by auto preflight disarming
+1,IO FW CRC match
+2,Kill-switch engaged
+2,RTT too high for timesync: 18 ms
+1,Ignore command 512 from 255/190 to 33/1
+2,Preflight: GPS Horizontal Pos Drift too high
+1,Start file log (type: full)
+2,Preflight: GPS fix too low
+3,Failed to get client ID!
+1,Opened full log file: /fs/microsd/log/2025-08-06/14_48_07.ulg
+1,[cal] Positive pressure: OK (51 Pa)
+1,"force: [0.000000, 0.000000, 1.557488], torque: [-0.064488, 0.003051, -0.000002]"
+2,RTT too high for timesync: 12 ms
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,Preflight Fail: No manual control input
+1,Opened full log file: /fs/microsd/log/2025-08-07/11_27_55.ulg
+1,Landing detected
+3,"node name overflow, type:0x01, name:CAL_AC"
+1,"successfully created rt/fmu/out/rc_channels data writer, topic id: 190"
+2,Preflight Fail: height estimate not stable
+1,DECODED_SIZE:5 SAVED_SIZE:-1
+2,Preflight Fail: Kill switch engaged
+1,u-blox module: NEO-M8N-0
+1,LED: open /dev/led0 failed (2)
+2,ist8310: no instance started (no device on bus?)
+1,Opened full log file: /fs/microsd/log/2025-08-06/09_06_36.ulg
+1,wyb_test: home.x = 0.008992 z = 0.082540
+1,Failsafe mode deactivated
+1,init serial /dev/ttyS3 @ 921600 baud
+3,unknown param ID: 930
+1,reset position to last known position
+1,u-blox module: ZED-F9P
+1,IO FW CRC match
+2,RTT too high for timesync: 11 ms
+3,Parameter MAV_2_UDP_PRT not found.
+1,"CRC match, dance started"
+1,Starting mavlink on /dev/ttyACM0 (SYS_USB_AUTO=2)
+1,"mode: Gimbal, data rate: 5760 B/s on /dev/ttyS4 @ 115200B"
+2,"Accel 1 clipping, not safe to fly!"
+1,logger started (mode=all)
+1,Start file log (type: full)
+1,"closed logfile, bytes written: 538869"
+1,"mode: Normal, data rate: 2880 B/s on udp port 14556 remote port 14550 target ip: 192.168.144.20"
+1,FlightTaskAuto.cpp L358
+1,Disarmed by auto preflight disarming
+1,Takeoff to 3.0 meters above home
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+3,get: param 65535 invalid
+1,1 - selected distance_sensor:0 (2 advertised)
+1,qmc5883 初始化失败!
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+1,"0 (396825) EST:0 offset: [0.023, 0.024, -0.023]->[0.031, 0.015, -0.033] (full [0.141, -0.044, -0."
+3,verify: invalid parameter 'CAL_GYRO2_ZO '
+2,invalid setpoints
+1,Opened full log file: /fs/microsd/log/2025-08-07/02_07_58.ulg
+1,#动力可用、、、
+1,channel 1 got 16 bytes
+3,parameter export to /fs/mtd_params failed (-1) attempt 2
+3,open '/fs/mtd_caldata' failed (2)
+3,Low battery level
+2,Arming denied: throttle above center
+2,Preflight Fail: height estimate not stable
+1,Opened full log file: /fs/microsd/log/2025-08-08/00_59_18.ulg
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+2,[timesync] RTT too high for timesync: 11 ms (sender: 191)
+2,ubx msg 0x0a09 invalid len 56
+3,node spin error -8
+3,unknown param ID: 930
+2,Preflight Fail: Avionics Power low:   4.79 Volt
+1,Opened full log file: /fs/microsd/log/2025-08-07/12_14_11.ulg
+1,Takeoff detected
+3,verify: invalid parameter 'SDLOG_PR'
+3,"0 - accel 3604514 timestamp error timestamp_sample: 295382, previous timestamp_sample: 295394"
+1,"closed logfile, bytes written: 265020"
+3,node spin error -8
+1,"instance: 0, max rate: 100, default: 50, alt: 50"
+2,Preflight Fail: Kill switch engaged
+1,log root dir created: /fs/microsd/log
+1,Disarmed by RC (switch)
+1,start fake height fusion
+1,0 - resetting IMU bias
+1,[cal] up side result: [-0.891 0.328 9.591]
+1,initializing CAN
+1,Starting mavlink shell
+3,GetSet error during param count
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+2,Preflight Fail: Flight termination active
+3,Parameter RBCLW_REV not found.
+1,Landing detected
+1,"BSON document size 3804 bytes, decoded 3804 bytes (INT32:90, FLOAT:94)"
+1,Fence dm locked
+3,Battery 2: over voltage.
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS6 @ 57600B"
+1,logger started (mode=all)
+3,bmi055: no instance started (no device on bus?)
+1,Starting CDC/ACM autostart
+1,init serial /dev/ttyS3 @ 1000000 baud
+1,"mode: Normal, data rate: 100000 B/s on udp port 14550 remote port 14550"
+1,"Fence chunk received, vertices 3-4 of 5"
+2,Preflight Fail: Flight termination active
+1,Recalculate Path fitting.
+2,Preflight Fail: No connection to the ground control station
+1,selected parameter default file /fs/mtd_params
+1,Invalid time ignored: 0
+1,MAVLink module starting up!
+3,unknown param ID: 687
+2,"Too many arming check events (1, 14 > 14). Not reporting all"
+3,unknown param: SYSID_CK
+1,Armed by external command
+1,"mode: Normal, data rate: 100000 B/s on udp port 14550 remote port 14550"
+1,Opened full log file: /fs/microsd/log/2025-08-06/08_59_05.ulg
+1,"BSON document size 3238 bytes, decoded 3238 bytes (INT32:69, FLOAT:88)"
+1,[cal] progress <80>
+1,u-blox firmware version: HPG 1.13
+2,time jump detected. Resetting time synchroniser.
+3,param export failed (-1)
+1,"successfully created rt/fmu/out/vehicle_odometry data writer, topic id: 224"
+1,successfully set system clock: Wed 2025-08-06 18:39:17
+1,"Mission #3 loaded, 6 WPs"
+2,Already running on bus 1
+1,"closed logfile, bytes written: 587788"
+2,Preflight Fail: Compass Sensor 0 missing
+1,Start file log (type: full)
+2,Preflight: GPS fix too low
+3,get: param 65535 invalid
+2,Preflight Fail: Kill switch engaged
+3,couldn't start parameter count: -2
+1,"instance: 1, max rate: 100, default: 50, alt: 50"
+3,Could not find parameter with name BAT4_V_EMPTY
+2,Preflight Fail: heading estimate not stable
+1,importing from '/fs/mtd_params'
+2,"Node ID 120, bitrate 500000,can_ch 1"
+2,RTT too high for timesync: 13 ms
+2,Preflight Fail: position estimate error
+1,Opened full log file: /fs/microsd/log/2025-08-07/08_31_59.ulg
+1,Landing detected
+1,"successfully created rt/fmu/out/sensor_optical_flow data writer, topic id: 212"
+1,Power on request complete (attempt 1)
+1,Opened full log file: /fs/microsd/log/sess100/log102.ulg
+2,Preflight: GPS Hor Speed Drift too high
+3,get: param 65535 invalid
+2,GPS reports spoofing indicated
+2,Preflight Fail: Kill switch engaged
+1,channel 1 got 14 bytes
+2,Preflight Fail: Kill switch engaged
+2,Using non-standard baudrate: 420000
+2,Preflight Fail: Kill switch engaged
+1,Fence:  Max dist: 30.0  Max alt: 140.0  Poly: 1  Pts: 5  CRC: 60312/2720  Hard fence: 1 (10.0 m)
+2,Preflight Fail: Kill switch engaged
+1,"mode: Config, data rate: 800000 B/s on /dev/ttyACM0 @ 57600B"
+2,Preflight Fail: Kill switch engaged
+3,importing from '/fs/mtd_caldata' failed (-1)
+1,[logger] /fs/microsd/log/2025-08-08/09_57_58.ulg
+1,Kill disengaged
+2,Preflight Fail: Compass Sensor 0 missing
+3,couldn't start parameter count: -2
+1,[cal] progress <11>
+3,param auto save failed (-1)
+2,left smart battery not online
+1,[logger] /fs/microsd/log/2025-08-08/04_01_32.ulg
+2,Preflight Fail: Attitude failure (pitch)
+1,YAW : Switch to Mag Heading fusion
+1,hspeed:    OK
+1,Kill engaged
+3,get: param 65535 invalid
+1,Path section: type 2  size 7707  chunk size: 3855
+2,#切换 位置 模式失败！
+1,sending FrSky SmartPort telemetry
+1,"0 (458770) EST:0 offset: [0.016, 0.052, 0.018]->[0.001, 0.057, 0.026] (full [-0.202, 0.061, 0.032"
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,"force: [0.000000, 0.000000, 7.946156], torque: [-0.075763, 0.080127, 0.000246]"
+3,Emergency battery level
+1,Mixer: /etc/mixers/pass.aux.mix on /dev/pwm_output1
+1,"roll = 0.0038, pitch = -0.0091, yaw = -0.2837"
+3,"Matching flight task was not able to run, Nav state: 1, Task: 1"
+1,u-blox module: NEO-M9N
+1,Starting CDC/ACM autostart
+1,logger started (mode=all)
+3,mtd_partition failed. offset=32 nblocks=0
+3,param auto save failed (-1)
+1,"BSON document size 2942 bytes, decoded 2942 bytes"
+1,"force: [0.000000, 0.000000, 0.203833], torque: [0.096203, 0.048866, -0.001299]"
+3,verify: failed (-1)
+1,Takeoff detected
+1,[logger] /fs/microsd/log/2025-08-01/05_05_52.ulg
+1,Disarmed by external command
+3,failed to get CAL_MAG1_ID
+1,"airspeed scale set to 1.000000, offset to 6.894469"
+1,RTL: land at destination
+2,Session was closed without activity
+2,Preflight Fail: Kill switch engaged
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+1,Takeoff detected
+2,Preflight: not enough GPS Satellites
+1,"1 (8944643) EST:0 offset: [0.015, 0.161, -0.014]->[0.015, 0.153, -0.014] (full [-0.000, -0.108, 0"
+3,mtd_partition failed. offset=32 nblocks=0
+1,"0 (396825) EST:0 offset: [0.34, 0.23, 0.29]->[0.35, 0.22, 0.29] (full [0.443, 0.204, 0.303])"
+3,parameter export to /fs/mtd_params failed (1) attempt 1
+1,[cal] Positive pressure: OK (59 Pa)
+1,BARO switch from #0 -> #1
+1,Disarmed by RC (switch)
+3,Product_ID: 0
+1,"roll = 0.0039, pitch = -0.0090, yaw = -0.2837"
+1,Takeoff detected
+1,FlightTaskAuto.cpp L358
+3,Low battery level
+1,Starting CDC/ACM autostart
+1,Start file log (type: full)
+3,unknown param ID: 610
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,Connection to ground station lost
+1,"No ping response, disconnecting"
+2,Preflight Fail: Kill switch engaged
+1,Armed by external command
+1,"successfully created rt/fmu/out/position_setpoint_triplet data writer, topic id: 180"
+1,u-blox protocol version: 27.12
+1,"successfully created rt/fmu/out/vehicle_odometry data writer, topic id: 224"
+2,ubx msg 0x0a09 invalid len 56
+1,Start file log (type: full)
+1,Init FMU Interface!!!!!!!!!!
+1,u-blox module: ZED-F9P
+1,open battery charge mos : response success 53
+1,"Mission finished, landed"
+1,u-blox firmware version: SPG 4.04
+2,Already running on bus 1
+1,Start mavlink log
+1,[pm] unknown param: COM_RCL_EXCEPT
+3,Task start failed (-1)
+1,Landing detected
+2,Preflight: GPS Horizontal Pos Error too high
+1,Armed by RC (switch)
+1,Registered Topic for 0x6 0x24
+1,Start file log (type: full)
+2,RTT too high for timesync: 13 ms
+3,stat failed read: No such file or directory
+1,"successfully created rt/fmu/out/vehicle_optical_flow data writer, topic id: 262"
+1,summary: 0/1833 (used/total)
+1,Armed by RC (switch)
+1,Starting mavlink on /dev/ttyACM0 (SYS_USB_AUTO=2)
+1,PX4IO Not Supported
+1,[logger] /fs/microsd/log/2025-08-06/10_42_56.ulg
+1,"DEBUG_MISSION, mission switch: 61 to 0"
+1,importing from '/fs/mtd_params'
+1,Disarmed by landing
+1,Preflight Fail: No manual control input
+2,Already running on bus 1
+1,#速度18米每秒、、、
+3,Battery 2: over voltage.
+1,Opened full log file: /fs/microsd/log/2025-08-01/06_28_22.ulg
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,Armed by RC
+1,Start file log (type: full)
+2,Preflight Fail: Yaw estimate error
+2,Preflight Fail: Kill switch engaged
+1,"rc wp seq:14,lat:30.269466,lon:119.987520,alt:90.000000"
+1,[logger] /fs/microsd/log/2025-08-01/13_42_40.ulg
+3,Parameter PWM_AUX_FUNC2 not found.
+1,[logger] /fs/microsd/log/2025-08-07/10_56_00.ulg
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,Kill-switch engaged
+2,Preflight Fail: Flight termination active
+3,FTP: Open failed - out of sessions
+1,idle : 80 free
+1,logger started (mode=all)
+2,Preflight Fail: Flight termination active
+1,"0 (396321) EST:0 offset: [0.013, 0.010, -0.266]->[0.021, 0.019, -0.266] (full [0.050, 0.069, -0.3"
+3,couldn't start parameter count: -2
+1,[logger] /fs/microsd/log/2025-08-01/06_07_15.ulg
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+1,"instance: 0, max rate: 100, default: 50, alt: 50"
+2,REJECT OFFBOARD
+1,u-blox module: NEO-M9N
+2,ms4525do: no instance started (no device on bus?)
+1,[logger] /fs/microsd/log/2025-08-06/10_03_32.ulg
+2,Arming denied: Resolve system health failures first
+3,"Matching flight task was not able to run, Nav state: 1, Task: 1"
+3,param export failed (-1)
+1,Connection to ground station lost
+1,Start file log (type: full)
+1,Opened full log file: /fs/microsd/log/2025-08-07/07_24_28.ulg
+1,Call to pthread_attr_setinheritsched returned status (0)
+2,Kill engaged
+1,channel 1 got 14 bytes
+3,get: param 65535 invalid
+3,MAG #0 failed:  TIMEOUT!
+2,Preflight Fail: Kill switch engaged
+1,"closed logfile, bytes written: 315611"
+2,Preflight Fail: Flight termination active
+2,Operation timeout
+1,Disarmed by RC (switch)
+1,Last total flight time 297 min
+2,Preflight: GPS Horizontal Pos Drift too high
+1,[logger] /fs/microsd/log/2025-08-06/15_36_15.ulg
+1,update init...
+3,bmp388: no instance started (no device on bus?)
+1,logger started (mode=all)
+2,Preflight Fail: velocity estimate error
+2,wq:rate_ctrl low on stack! (108 bytes left)
+1,[cal] calibration done: level
+2,hardware flow control not supported
+1,starting GPS fusion
+1,PX4IO Not Supported
+3,Could not find parameter with name BAT4_V_EMPTY
+2,Colprev fault! Check vision system
+3,PWM_SERVO_SET_ARM_OK
+1,logger started (mode=all)
+1,"0 (396321) EST:0 offset: [-0.038, 0.076, 0.042]->[-0.040, 0.082, 0.047] (full [-0.049, 0.115, 0.5"
+1,Kill-switch disengaged
+3,Parameter MAV_2_UDP_PRT not found.
+1,GPS 1: probing for u-blox at 230400 baud
+3,failed to initialize mtd driver
+3,param export failed (-1)
+1,"Node ID 1, bitrate 1000000"
+1,Opened full log file: /fs/microsd/log/2025-08-05/08_29_54.ulg
+3,status: 0 status: 0
+1,"333BSON document size 3183 bytes, decoded 3183 bytes (INT32:64, FLOAT:90)"
+3,param export failed (-1)
+3,FTP: Open failed - out of sessions
+1,Disarmed by RC (switch)
+3,"vehicle_command_ack lost, generation 16151 -> 16153"
+3,Dance start: not ready (8)
+3,mtd failure: -5 bus 2 address 0 class 1
+2,Already running on bus 1
+2,Preflight Fail: heading estimate not stable
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+1,Preflight Fail: No manual control input
+1,Connection to ground station lost
+1,WHO_AM_I 0x47
+3,open '/fs/mtd_caldata' failed (2)
+3,Parameter RBCLW_REV not found.
+2,Preflight: GPS Horizontal Pos Drift too high
+1,u-blox firmware version: SPG 4.04
+1,Kill-switch engaged
+2,Preflight Fail: Kill switch engaged
+1,Path section: type 1  size 2574  chunk size: 1290
+1,Opened full log file: /fs/microsd/log/2025-08-10/04_33_39.ulg
+1,Opened full log file: /fs/microsd/log/sess112/log103.ulg
+2,Preflight: GPS Horizontal Pos Drift too high
+1,Takeoff detected
+1,"closed logfile, bytes written: 1097826"
+3,UBX CFG-GNSS message ACK failed
+3,"vehicle_command_ack lost, generation 3871 -> 3884"
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS1 @ 57600B"
+2,Arming denied: Resolve system health failures first
+2,unknown board hw: 000A0000
+2,Preflight: GPS Speed Accuracy too low
+1,Armed by external command
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+3,importing from '/fs/mtd_caldata' failed (-1)
+3,verify: 'CAL_ACC0_XSCALE' invalid BSON value 13185373196931300000000000000000000000000000000000000000000000
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+1,RC scan: CRSF RC input locked
+1,Landing detected
+3,Low battery
+3,BSON document size (2680) doesn't match bytes decoded (163)
+1,"Writing input/output format: sdio,COM1,auto,SBF"
+1,setting PWM_AUX_OUT none
+2,Preflight: GPS Horizontal Pos Drift too high
+3,"Dangerous battery level, land now"
+2,Dropped 209 events (seq=237)
+2,dead reckon time exceeded
+3,"COMMAND_LONG vehicle_command lost, generation 1041 -> 1074"
+1,Armed by external command
+1,u-blox protocol version: 27.12
+2,Battery 1 is in unknown mode!
+2,Preflight Fail: Compasses 78° inconsistent
+1,"force: [0.000000, 0.000000, -0.167064], torque: [-0.018880, -0.131438, 0.000046]"
+1,"Node ID 1, bitrate 1000000"
+1,Starting mavlink on /dev/ttyACM0 (SYS_USB_AUTO=2)
+1,Landing detected
+3,get: param 65535 invalid
+2,Preflight: GPS fix too low
+2,Preflight Fail: Yaw estimate error
+3,get: param 65535 invalid
+1,Acceptance radius corrected from -0.000000 to 1.0
+1,"closed logfile, bytes written: 1986570"
+3,mtd failure: -6 bus 2 address 0 class 1
+3,failed to initialize mtd driver
+1,importing from '/fs/mtd_params'
+1,ist8310 初始化失败!
+3,Task start failed (-1)
+1,"0 (396825) EST:2 offset: [-0.312, 0.031, 0.168]->[-0.332, 0.054, 0.168] (full [-0.442, 0.131, 0.1"
+1,[logger] /fs/microsd/log/2025-08-07/12_48_52.ulg
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+2,Not arming: Preflight checks failed
+3,mission update failed
+3,Parameter MAV_2_BROADCAST not found.
+1,Start file log (type: full)
+2,Preflight: GPS Horizontal Pos Drift too high
+1,channel 1 got 14 bytes
+1,"mode: Onboard, data rate: 921600 B/s on /dev/ttyS3 @ 921600B"
+1,"mode: Config, data rate: 800000 B/s on /dev/ttyACM0 @ 57600B"
+1,u-blox firmware version: SPG 3.01
+1,Running as Master
+1,Kill disengaged
+1,"force: [0.000000, 0.000000, 5.354422], torque: [-0.148851, -0.285623, 0.002770]"
+1,0)  37.552392 127.122923  37.552491 127.122405  37.552243 127.122313  37.552131 127.122835  37.552392 127.122923
+3,Node init failed: -13
+3,Parameter PWM_AUX_FUNC2 not found.
+1,"0 (396321) EST:1 offset: [0.043, 0.058, -0.277]->[0.048, 0.058, -0.277] (full [0.073, 0.055, -0.2"
+3,Parameter PWM_AUX_FUNC3 not found.
+2,Low battery
+1,Start file log (type: full)
+1,Start file log (type: full)
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+1,channel 1 got 14 bytes
+3,system boot did not complete in 20 seconds
+1,[logger] /fs/microsd/log/2025-06-07/08_26_06.ulg
+1,Kill-switch disengaged
+3,verify: 'CAL_ACC1_ID' invalid BSON value 1245202(expected 2490386)
+1,Starting CDC/ACM autostart
+3,GetSet error during param count
+2,Preflight: GPS Vertical Pos Drift too high
+2,Preflight: GPS Horizontal Pos Drift too high
+1,Opened full log file: /fs/microsd/log/2025-07-25/01_47_31.ulg
+1,0
+1,[logger] /fs/microsd/log/2025-08-07/08_59_32.ulg
+2,RTT too high for timesync: 14 ms
+2,icm20689: no instance started (no device on bus?)
+2,ist8310: no instance started (no device on bus?)
+1,Mixer: /etc/mixers/pass.aux.mix on /dev/pwm_output1
+1,[logger] /fs/microsd/log/2025-08-06/10_40_29.ulg
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+1,and broadcast IP: 10.0.0.255
+3,Parameter MAV_2_REMOTE_PRT not found.
+3,UBX CFG-GNSS message ACK failed
+2,Preflight Fail: Yaw estimate error
+2,Preflight Fail: Yaw estimate error
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+1,u-blox module: NEO-M9N
+3,"Matching flight task was not able to run, Nav state: 1, Task: 1"
+1,"closed logfile, bytes written: 549041"
+2,Preflight Fail: Kill switch engaged
+2,Arming denied: high throttle
+1,with netmask: 255.255.255.0
+1,Writing SBF output block set
+1,Start mavlink log
+1,logger started (mode=all)
+1,synchronized with time offset 1754508584002638us
+3,Could not find parameter with name BAT4_V_EMPTY
+1,checks canarm
+1,[logger] /fs/microsd/log/sess128/log100.ulg
+1,Armed by external command
+3,get: param 65535 invalid
+3,get: param 65535 invalid
+1,"successfully created rt/fmu/out/sensor_combined data writer, topic id: 203"
+3,get: param 65535 invalid
+3,"write failed errno:22 (Invalid argument), retrying"
+1,[logger] /fs/microsd/log/2025-08-06/23_59_11.ulg
+3,Network could not be saved!
+1,Kill-switch disengaged
+1,[logger] /fs/microsd/log/2025-08-07/14_16_08.ulg
+1,with netmask: 255.255.255.0
+1,Start file log (type: full)
+3,PWM_SERVO_SET_SELECT_UPDATE_RATE
+3,param import failed
+2,PREFLIGHT FAIL: System global position not valid
+3,node spin error -8
+1,STATE::RESET completed
+3,verify: failed (-1)
+1,Armed by RC (switch)
+1,"Failed to init INA238 on bus 1, but will try again periodically."
+1,logger started (mode=all)
+3,get: param 65535 invalid
+1,Opened full log file: /fs/microsd/log/2025-07-30/07_45_15.ulg
+1,Kill engaged
+3,get: param 65535 invalid
+1,u-blox protocol version: 32.01
+2,IGN MISSION_ITEM: No transfer
+1,"successfully created rt/fmu/out/vehicle_status data writer, topic id: 266"
+1,[logger] /fs/microsd/log/2025-08-07/09_26_25.ulg
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS0 @ 57600B"
+3,bmi088: no instance started (no device on bus?)
+1,"successfully created rt/fmu/out/vehicle_local_position_setpoint data writer, topic id: 258"
+1,[logger] /fs/microsd/log/2025-08-08/09_15_51.ulg
+2,Preflight Fail: Accel 2 inconsistent - check cal
+1,"Fence chunk received, vertices 0-2 of 5"
+1,Data link regained
+2,Arming denied! Press safety switch first
+3,Parameter MAV_2_UDP_PRT not found.
+2,Disarming denied: not landed
+1,u-blox protocol version: 18.00
+3,verify: invalid parameter 'RC_MB'
+1,Starting CDC/ACM autostart
+2,Arming denied! manual control lost
+1,Connection to ground station lost
+1,Armed by RC
+2,Preflight Fail: Kill switch engaged
+3,parameter export to /fs/mtd_params failed (1) attempt 1
+1,Opened full log file: /fs/microsd/log/2025-08-06/15_36_15.ulg
+1,"instance: 0, max rate: 100, default: 50, alt: 50"
+1,Disarmed by RC (switch)
+1,reset position to zero
+1,[cal] up side result: [0.819 -0.338 10.092]
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+1,"closed logfile, bytes written: 4508300"
+1,[cal] calibration done: airspeed
+2,ist8310: no instance started (no device on bus?)
+1,Starting CDC/ACM autostart
+1,not init tilt
+2,Preflight: GPS fix too low
+1,Starting CDC/ACM autostart
+1,"Failed to init INA226 on bus 2, but will try again periodically."
+1,Starting CDC/ACM autostart
+1,Armed by RC (switch)
+1,"Node ID 1, bitrate 1000000"
+3,"Failed to communicate with IO, abort."
+2,GPS reports critical jamming state
+1,"Manual mode, refuse to arm"
+1,Publishing standard tune 1
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+1,logger started (mode=all)
+2,RTT too high for timesync: 14 ms
+2,command 521 unsupported
+1,#向前转 目标速度19
+2,ist8310: no instance started (no device on bus?)
+3,get: param 65535 invalid
+2,Preflight Fail: Kill switch engaged
+2,"No valid mission available, refusing takeoff."
+3,verify: failed (-1)
+3,bmi088: no instance started (no device on bus?)
+1,idle 82.56%(4128245/5000015)
+1,using yaw rotation 180.000 degrees (3.142 radians)
+3,GetSet error during param count
+2,Preflight: GPS Horizontal Pos Drift too high
+1,Start file log (type: full)
+1,stop fake height fusion
+1,logger started (mode=all)
+2,Preflight Fail: Flight termination active
+1,RC scan: CRSF RC input locked
+2,Not enough bandwidth to enable log streaming
+1,"successfully created rt/fmu/out/vehicle_odometry data writer, topic id: 224"
+1,default PWM output device
+1,[logger] /fs/microsd/log/2025-08-10/09_20_09.ulg
+1,logger started (mode=all)
+1,u-blox NEO-F9P 1 HW: 00190000 SW: EXT CORE 1.00 (49f616)
+2,Preflight Fail: Airspeed selector module down
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+1,Registered Topic for 0x1 0x7
+2,Preflight: GPS Vertical Pos Drift too high
+1,#速度14米每秒、、、
+2,time jump detected. Resetting time synchroniser.
+1,当前门关闭
+3,tf02pro: no instance started (no device on bus?)
+2,Preflight Fail: No connection to the ground control station
+1,Opened full log file: /fs/microsd/log/2025-08-06/09_46_49.ulg
+2,Preflight Fail: Open Drone ID system not ready
+1,"successfully created rt/fmu/out/estimator_status_flags data writer, topic id: 87"
+1,Start file log (type: full)
+3,Parameter MPC_Z_TRAJ_P not found.
+3,status: 0 status: 0
+3,status: 0 status: 0
+3,Parameter BAT2_V_DIV not found.
+3,get: param 65535 invalid
+1,[cal] progress <7>
+3,param export failed (1)
+3,get: param 65535 invalid
+1,Takeoff detected
+2,Preflight: GPS Horizontal Pos Drift too high
+1,"[cal] Create air pressure! (got -4, wanted: 50 Pa)"
+2,RTT too high for timesync: 12 ms
+1,"mode: Normal, data rate: 100000 B/s on udp port 14550 remote port 14550"
+1,reset velocity to zero
+1,Kill-switch disengaged
+1,"closed logfile, bytes written: 3337057"
+1,"force: [0.000000, 0.000000, 0.854148], torque: [0.098160, 0.037984, -0.001217]"
+2,"Preflight Fail: Accel Range, hold still on arming"
+1,Remove IP: 10.20.2.19 port 14551
+1,[cal] progress <101>
+1,RTL HOME activated
+2,[timesync] RTT too high for timesync: 30 ms (sender: 240)
+3,pcf8583 loop called too early
+1,Start file log (type: full)
+1,Mixer: /etc/mixers/nuaa_quad_tiltrotor.aux.mix on /dev/pwm_output1
+1,BARO
+1,RTL: landing at home position.
+1,"force: [0.000000, 0.000000, -13.348897], torque: [-0.069907, -0.000941, -0.000322]"
+1,Start file log (type: full)
+2,Operation timeout
+2,Maximum distance from home reached (400.00000)
+1,running on I2C bus 2 address 0x60
+3,/dev/ttyS0 write error -1
+1,Disarmed by landing
+1,"instance: 0, max rate: 100, default: 50, alt: 50"
+1,lpwork_thread : 612 free
+3,Task start failed (-1)
+3,PWM_SERVO_SET_UPDATE_RATE (check rate for sanity)
+1,logger started (mode=all)
+1,u-blox module: ZED-F9P
+1,GCS connection regained
+2,GNSS Fix2 msg detected for ch 1; disabling Fix msg for this node
+1,"mode: Onboard, data rate: 921600 B/s on /dev/ttyS3 @ 921600B"
+1,"receive set mode, main mode = 4, sub mode = 3"
+1,[cal] pending: back front left right up
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,Pilot took over using sticks
+1,"Get Esc Firmware Version: fw_ver: 404, hw_ver: 0 bl_ver:0"
+2,Preflight Fail: Flight termination active
+1,Landing detected
+1,Takeoff detected
+2,Connection to mission computer lost
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+2,GPS jamming detected! (state: 3) (indicator: 62)
+2,CAUTION: Avionics Power low:   4.80 Volt
+2,ist8310: no instance started (no device on bus?)
+1,Opened full log file: /fs/microsd/log/2025-08-08/09_28_51.ulg
+3,MAG #0 failed:  TIMEOUT!
+1,with netmask: 255.255.255.0
+3,Task already running
+1,"successfully created rt/fmu/out/estimator_status_flags data writer, topic id: 87"
+1,Kill disengaged
+1,Opened full log file: /fs/microsd/log/2025-08-05/09_56_30.ulg
+1,Start file log (type: full)
+1,"Path data96 req: 0, 318, 0, 3, 66"
+1,Opened full log file: /fs/microsd/log/2025-08-10/07_37_47.ulg
+1,"BSON document size 2593 bytes, decoded 2593 bytes (INT32:52, FLOAT:72)"
+1,"closed logfile, bytes written: 815808"
+1,Takeoff to 3.5 meters above home
+1,init serial /dev/ttyS4 @ 921600 baud
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+2,orb_advertise_multi: failed to set queue size
+1,freemem 1840
+1,Takeoff detected
+1,Opened full log file: /fs/microsd/log/2025-08-07/09_51_30.ulg
+1,"GIMBAL_MANAGER_PITCHYAW from 1/1 denied, in control: 0/0"
+1,u-blox protocol version: 34.10
+1,"steam not found, configure and send"
+1,Opened full log file: /fs/microsd/log/2025-08-06/09_18_30.ulg
+3,get: param 65535 invalid
+1,Start file log (type: full)
+1,PX4IO Not Supported
+2,no device on bus 2
+1,"Node ID 1, bitrate 1000000"
+3,Battery 1: over voltage.
+1,successfully set system clock: Fri 2025-08-08 15:52:20
+1,importing from '/fs/mtd_params'
+2,[cal] Ensure sensor is not measuring wind
+1,u-blox firmware version: HPG 1.32
+3,parameter export to /fs/mtd_params failed (-1) attempt 3
+1,[logger] /fs/microsd/log/2025-08-07/21_39_46.ulg
+1,Armed by Stick gesture
+2,Preflight Fail: Kill switch engaged
+2,gps hgt timeout - reset to baro
+1,Path CRC B8C67334  OK
+1,i2c2_thread : 72 free
+2,Preflight Fail: Strong magnetic interference
+1,GYRO 0 (2490402) offset committed: [0.026 0.017 -0.010]->[0.020 0.016 -0.021])
+1,"1 (396817) EST:0 offset: [-0.315, -0.085, -0.218]->[-0.464, -0.070, -0.232] (full [-0.584, -0.063"
+2,Preflight Fail: Press safety button first
+3,Append uavcan channel is not open
+2,invalid setpoints
+2,[timesync] RTT too high for timesync: 12 ms (sender: 191)
+3,get: param 65535 invalid
+1,importing from '/fs/mtd_params'
+1,"Node ID 1, bitrate 1000000"
+2,Preflight Fail: Flight termination active
+1,"stopping RNG height fusion, switching to external vision height"
+2,Preflight Fail: Crash dumps present on SD
+1,Climb to 91.4 meters above home
+3,Parameter MAV_2_BROADCAST not found.
+1,"successfully created rt/fmu/out/position_setpoint_triplet data writer, topic id: 180"
+3,parameter export to /fs/mtd_params failed (-1) attempt 1
+2,ms5611: no instance started (no device on bus?)
+1,"Failed to init INA226 on bus 1, but will try again periodically."
+1,Opened full log file: /fs/microsd/log/2025-08-06/15_45_31.ulg
+2,[timesync] RTT too high for timesync: 29 ms (sender: 191)
+2,Preflight Fail: height estimate not stable
+2,Failsafe: stop and wait
+2,Preflight: GPS Speed Accuracy too low
+1,[logger] /fs/microsd/log/2025-08-08/06_51_49.ulg
+1,"closed logfile, bytes written: 191028"
+2,Preflight Fail: Kill switch engaged
+2,Preflight Fail: Flight termination active
+1,"gyro 1 (2490378) updating offsets [0.026, 0.012, -0.006]->[0.016, 0.011, -0.005] 30.4 degC"
+2,Preflight Fail: height estimate not stable
+1,Logging FIFO data: increasing task prio and logging rate
+2,RTT too high for timesync: 15 ms
+1,"1 (527625) EST:0 offset: [0.040, 0.194, -0.045]->[0.038, 0.188, -0.042] (full [0.034, 0.178, -0.0"
+1,IO FW CRC match
+3,"action_request lost, generation 66 -> 68"
+3,get: param 65535 invalid
+1,Start file log (type: full)
+3,Append uavcan channel is not open
+1,"1 (396809) EST:1 offset: [0.041, -0.283, -0.071]->[0.040, -0.283, -0.077] (full [0.038, -0.282, -"
+1,importing from '/fs/mtd_params'
+1,FlightTaskAuto.cpp L623
+3,unknown param ID: 1077
+1,[logger] /fs/microsd/log/2025-08-06/22_51_27.ulg
+2,Preflight Fail: Yaw estimate error
+2,invalid setpoints
+1,Armed by RC (switch)
+1,转换模式，限幅固定翼roll ±35度
+3,"vehicle_command_ack lost, generation 754 -> 756"
+2,Preflight: GPS Horizontal Pos Drift too high
+1,Dance_PX4::_updateFence()
+1,Connection to ground station lost
+1,[logger] /fs/microsd/log/2025-08-05/06_04_42.ulg
+1,"instance: 0, max rate: 800, default: 50, alt: 400"
+1,Takeoff detected
+2,"Too many arming check events (1, 14 > 14). Not reporting all"
+3,"vehicle_command_ack lost, generation 12 -> 2998"
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+1,takeoff_state spoolup
+1,[logger] /fs/microsd/log/2025-07-23/02_09_36.ulg
+3,Battery 1: over voltage. Land now!
+1,Climb to 5.0 meters above home
+3,verify: 'BAT1_A_PER_V' invalid BSON value nan (expected nan)
+1,u-blox firmware version: SPG 3.01
+1,"62876659: EKF aligned, (unknown hgt, IMU buf: 25, OBS buf: 25)"
+1,u-blox protocol version: 27.31
+1,idle : 80 free
+3,"Failed to communicate with IO, abort."
+1,"successfully created rt/fmu/out/sensor_combined data writer, topic id: 203"
+2,Preflight Fail: heading estimate not stable
+2,Preflight Fail: Flight termination active
+1,[cal] progress <81>
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+3,get: param 65535 invalid
+3,I2C device not opened
+2,Preflight Fail: velocity estimate error
+1,and broadcast IP: 10.0.0.255
+1,Takeoff detected
+1,selected parameter default file /fs/mtd_params
+1,[logger] /fs/microsd/log/2025-08-05/09_04_45.ulg
+1,[logger] /fs/microsd/log/sess100/log103.ulg
+2,Preflight Fail: Kill switch engaged
+3,PWM_SERVO_SET_UPDATE_RATE (check rate for sanity)
+1,Opened full log file: /fs/microsd/log/2025-08-07/01_52_06.ulg
+1,Executing Mission
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,valid device required
+1,auto save: on
+1,Mixer: /etc/mixers/quad_x.main.mix on /dev/pwm_output0
+1,[logger] /fs/microsd/log/2025-08-07/08_39_08.ulg
+3,param export failed (-1)
+1,* Subscribed to topic: manual_control_setpoint (fd = 3)*
+1,"successfully created rt/fmu/out/position_setpoint_triplet data writer, topic id: 180"
+1,拨杆：向前转换
+2,Already running on bus 1
+2,Preflight Fail: Kill switch engaged
+1,[logger] /fs/microsd/log/2021-02-19/00_01_24.ulg
+1,"mode: Onboard, data rate: 46080 B/s on /dev/ttyS2 @ 921600B"
+3,Parameter MAV_2_BROADCAST not found.
+3,verify: invalid parameter ''
+3,"sending broadcast failed, errno: 114: Network is unreachable"
+2,Preflight Fail: height estimate not stable
+3,parameter export to /fs/mtd_params failed (-1) attempt 1
+1,Armed by RC
+1,importing from '/fs/mtd_params'
+2,Preflight Fail: Yaw estimate error
+1,"0 (396825) EST:0 offset: [-0.020, 0.154, -0.061]->[0.004, 0.063, -0.035] (full [0.172, -0.079, 0."
+2,Preflight Fail: High Accelerometer Bias
+1,Disarmed by RC (switch)
+1,"0 (4395041) EST:0 offset: [-0.021, 0.029, -0.086]->[-0.021, 0.023, -0.085] (full [-0.015, -0.094,"
+3,bmp388: no instance started (no device on bus?)
+1,Armed by external command
+1,logger started (mode=all)
+3,/dev/ttyACM0 already running
+1,Start file log (type: full)
+2,RTT too high for timesync: 12 ms
+1,Crsf serial opened sucessfully
+1,Opened full log file: /fs/microsd/log/2025-08-01/06_18_06.ulg
+2,Preflight Fail: Found 0 compass (required: 1)
+2,stopping navigation
+2,Preflight: GPS Speed Accuracy too low
+2,Using minimum takeoff altitude: 0.50 m
+2,Preflight Fail: velocity estimate error
+1,synchronized with time offset 1754590888343025us
+1,Mixer: /etc/mixers/quad_x.main.mix on /dev/pwm_output0
+1,[cal] down side already completed
+1,u-blox protocol version: 27.12
+3,failed to initialize mtd driver
+2,ist8310: no instance started (no device on bus?)
+1,Starting CDC/ACM autostart
+3,ms4525do: no instance started (no device on bus?)
+1,Armed by RC switch
+1,u-blox protocol version: 27.31
+1,Start file log (type: full)
+2,Preflight Fail: Yaw estimate error
+3,mtd failure: -6 bus 2 address 0 class 1
+1,logger started (mode=all)
+1,Starting mavlink shell
+2,Preflight Fail: horizontal position unstable
+1,Start file log (type: full)
+1,Armed by RC (switch)
+2,Preflight Fail: heading estimate not stable
+1,Armed by external command
+1,RC input locked
+3,get: param 65535 invalid
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,"GYRO 3670026 EN: 1, offset: [-0.0051 -0.0123 -0.0057]"
+1,[cal] progress <100>
+1,Armed by RC (switch)
+1,Armed by external command
+2,Preflight Fail: Airspeed too high - check airspeed calibration
+3,parameter export to /fs/mtd_params failed (1) attempt 1
+2,ist8310: no instance started (no device on bus?)
+1,"mode: Onboard, data rate: 100000 B/s on udp port 14540 remote port 14540"
+1,selected parameter default file /fs/mtd_params
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+3,get: param 65535 invalid
+1,channel 0 got 14 bytes
+1,"successfully created rt/fmu/out/vehicle_land_detected data writer, topic id: 265"
+1,Landing detected
+3,BSON document size (2680) doesn't match bytes decoded (163)
+3,param auto save failed (-1)
+2,input source changed to futaba
+1,[logger] /fs/microsd/log/2025-08-07/08_26_31.ulg
+1,importing from '/fs/mtd_params'
+1,receive start helper.....
+1,"successfully created rt/fmu/out/distance_sensor data writer, topic id: 42"
+1,Successfully set system time
+1,enough space: 30758273024
+3,node spin error -8
+2,ist8310: no instance started (no device on bus?)
+1,spi3_thread : 80 free
+1,获取硬件ID......
+1,Opened full log file: /fs/microsd/log/sess105/log100.ulg
+1,"mode: Normal, data rate: 80000 B/s on /dev/ttyS3 @ 57600B"
+2,Preflight Fail: Kill switch engaged
+3,Battery 1: over voltage.
+2,Preflight Fail: No CPU and RAM load information
+3,bmp388: no instance started (no device on bus?)
+1,"Node ID 1, bitrate 1000000"
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+3,parameter export to /fs/mtd_params failed (-1) attempt 3
+1,u-blox protocol version: 27.12
+1,Started advertising rfly_px4
+1,u-blox module: ZED-F9P
+3,"Dangerous battery level, land now"
+1,GYRO 1 (2490378) offset committed: [0.021 -0.024 -0.002]->[0.008 -0.024 -0.001])
+1,Armed by RC (switch)
+1,#切断动力开关、、
+3,Battery 2: over voltage.
+1,can_thread : 72 free
+3,killed: node name overflow
+1,** Base Rate Task ID = 1079 with Priority = 250
+1,Start file log (type: full)
+1,"successfully created rt/fmu/out/battery_status data writer, topic id: 19"
+1,Starting CDC/ACM autostart
+1,"[cal] back side done, rotate to a different side"
+3,couldn't start parameter count: -2
+1,selected parameter default file /fs/mtd_params
+1,new Tiltrotorheli 对象成功
+1,"Accel ts: 12771850, accel z: -9.979"
+1,"closed logfile, bytes written: 276185"
+2,no device on bus #3 (SPI1)
+2,vision data stopped
+1,Start file log (type: full)
+1,[cal] pending: back left right
+1,Opened full log file: /fs/microsd/log/2025-08-08/03_24_33.ulg
+1,[cal] calibration done: airspeed
+1,DECODED_SIZE:2440 SAVED_SIZE:2440
+1,"mode: Normal, data rate: 100000 B/s on /dev/ttyS4 @ 921600B"
+3,Low battery level
+2,invalid setpoints
+1,[cal] progress <3>
+1,进入高度：59.8m
+2,stream COLLISION not found
+3,get: param 65535 invalid
+2,Preflight Fail: No connection to the ground control station
+3,open '/fs/mtd_caldata' failed (2)
+1,[logger] /fs/microsd/log/2025-07-19/03_21_06.ulg
+1,Start file log (type: full)
+1,Opened full log file: /fs/microsd/log/2025-08-08/05_59_54.ulg
+1,Climb to 3.0 meters above home
+2,Preflight Fail: heading estimate not stable
+1,Opened full log file: /fs/microsd/log/2025-08-01/04_48_59.ulg
+1,"MAG 396833 EN: 1, offset: [-0.192  0.050  0.326], scale: [ 1.035  0.944  1.022], External ROT: 0"
+1,[logger] /fs/microsd/log/2025-08-06/07_24_32.ulg
+1,stackSize = 2560 sched_priority = 205
+1,IO FW CRC match
+2,Preflight Fail: Kill switch engaged
+3,verify: failed (-1)
+1,Autotune started
+1,FlightTaskAuto.cpp L358
+1,u-blox protocol version: 27.31
+3,failed to initialize mtd driver
+3,parameter export to /fs/mtd_params failed (-1) attempt 1
+1,Path section: type 2  size 7707  chunk size: 3855
+2,Using non-standard baudrate: 420000
+3,parameter export to /fs/mtd_params failed (-1) attempt 1
+2,Preflight Fail: height estimate not stable
+1,dataman file set to: /fs/mtd_waypoints
+1,Start file log (type: full)
+3,Parameter MAV_2_UDP_PRT not found.
+2,primary EKF changed 1 (unhealthy) -> 0
+1,Opened full log file: /fs/microsd/log/2025-08-01/16_11_52.ulg
+1,"0 (73225) EST:2 offset: [0.089, 0.012, -0.200]->[0.095, 0.018, -0.202] (full [0.140, 0.072, -0.22"
+2,Preflight Fail: Yaw estimate error
+1,Setting system clock from SYSTEM_TIME sent by 255/190
+1,YAW : Switch to Mag Heading fusion
+1,Starting CDC/ACM autostart
+1,Allocated DMA UP Timer Index 0
+1,"closed logfile, bytes written: 566513"
+3,pcf8583 loop called too early
+1,rc : sbus on line
+1,"mode: Normal, data rate: 2880 B/s on /dev/ttyS1 @ 57600B"
+2,Failsafe activated
+1,Opened full log file: /fs/microsd/log/2021-02-18/23_57_43.ulg
+1,"mode: Config, data rate: 800000 B/s on /dev/ttyACM0 @ 57600B"
+1,Start file log (type: full)
+1,Opened full log file: /fs/microsd/log/2025-08-06/09_02_20.ulg
+1,Preflight check
+1,Takeoff detected
+1,"Node ID 1, bitrate 1000000"
+2,Preflight Fail: Flight termination active
+1,"mode: Normal, data rate: 115200 B/s on /dev/ttyS6 @ 115200B"
+3,param auto save failed (-1)
+1,Disarmed by landing
+1,Kill-switch engaged
+1,logger started (mode=all)
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+3,Battery 1: over voltage. Land now!
+1,Kill-switch engaged
+1,"closed logfile, bytes written: 1785744"
+1,channel 1 got 14 bytes
+1,"successfully created rt/fmu/out/vehicle_angular_velocity data writer, topic id: 240"
+2,Preflight Fail: Attitude failure (pitch)
+1,open battery charge mos : response success 53
+1,Kill engaged
+1,GCS connection regained
+3,bmi055: no instance started (no device on bus?)
+1,logger started (mode=all)
+1,Opened full log file: /fs/microsd/log/2021-02-18/23_59_05.ulg
+3,Battery 2: over voltage.
+1,init serial /dev/ttyS4 @ 921600 baud
+2,Failsafe: stop and wait
+1,"successfully created rt/probe_3/fmu/out/vehicle_odometry data writer, topic id: 261"
+1,Start file log (type: full)
+1,Armed by RC switch
+1,[cal] progress <40>
+1,Recalculate Path fitting.
+1,Starting CDC/ACM autostart
+2,Preflight Fail: Kill switch engaged
+1,LED RGB scale set to 0.30 percent
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,"closed logfile, bytes written: 263790"
+3,Parameter MAV_2_UDP_PRT not found.
+1,u-blox protocol version: 34.10
+2,Preflight: GPS fix too low
+1,GCS connection regained
+3,instance 0: RADIO_STATUS timeout
+1,"successfully created rt/fmu/out/vehicle_local_position_setpoint data writer, topic id: 258"
+2,Autotune aborted before finishing
+1,"0 (466953) EST:0 offset: [-0.210, 0.017, 0.012]->[-0.208, 0.024, 0.012] (full [-0.199, 0.046, 0.0"
+3,Accel #0 fail:  TIMEOUT!
+3,failed to initialize mtd driver
+2,Preflight: GPS fix too low
+1,logger started (mode=all)
+1,"DanceFence::_updateFence() done, 1 polys, 5 vertices"
+1,RC scan: SBUS RC input locked
+3,bmi088: no instance started (no device on bus?)
+2,Arming denied: Resolve system health failures first
+2,"no gyro selected, using sensor_gyro_fifo:0 3407898"
+3,configure_streams_to_default() failed
+3,MAG #0 failed:  TIMEOUT!
+3,mission update failed
+1,Opened full log file: /fs/microsd/log/2025-08-06/10_42_56.ulg
+1,Armed by RC switch
+1,Starting CDC/ACM autostart
+2,Preflight: not enough GPS Satellites
+1,"mode: Normal, data rate: 5760 B/s on /dev/ttyS7 @ 115200B"
+1,GPS 1: detected NMEA
+2,Preflight Fail: height estimate not stable
+3,"vehicle_command_ack lost, generation 547 -> 549"
+1,Opened full log file: /fs/microsd/log/2025-07-30/07_12_39.ulg
+3,"sending broadcast failed, errno: 114: Network is unreachable"
+2,Preflight: GPS Speed Accuracy too low
+1,[cal] progress <102>
+2,Preflight Fail: Kill switch engaged
+1,u-blox module: NEO-M9N
+1,"force: [0.000000, 0.000000, -1.532544], torque: [0.000338, 0.021978, -0.000045]"
+1,Armed by external command
+3,failed setting PWM rate on IO
+1,Landing detected
+1,u-blox module: ZED-F9P
+1,Onboard controller regained
+1,ACC 1 (3604506) offset committed: [-0.083 0.303 0.013]->[0.020 0.462 0.085])
+2,ms5611: no instance started (no device on bus?)
+3,FTP: Open failed - out of sessions
+1,importing from '/fs/mtd_params'
+2,Using non-standard baudrate: 420000
+1,Updating SENS_BOARD_X_OFF -3.2 -> -2.3 degrees
+2,Preflight Fail: Yaw estimate error
+3,GetSet error
+1,default PWM output device
+1,[logger] /fs/microsd/log/2025-08-06/10_29_46.ulg
+1,[logger] /fs/microsd/log/2024-11-29/16_40_52.ulg
+3,instance 0: RADIO_STATUS timeout
+1,"BSON document size 2876 bytes, decoded 2876 bytes (INT32:63, FLOAT:75)"
+1,[cal] progress <85>
+2,offboard mission init failed (-1)
+1,"gyro 0 (3670026) updating offsets [0.051, 0.047, 0.005]->[0.041, 0.050, 0.004] 46.8 degC"
+2,"Event dropped (241, 263)"
+1,[logger] /fs/microsd/log/2025-08-08/01_54_20.ulg
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+2,[cal] Blow into front of pitot without touching
+1,"mode: Config, data rate: 800000 B/s on /dev/ttyACM0 @ 57600B"
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+1,u-blox protocol version: 27.12
+1,synchronized with time offset 1754507630229509us
+1,"closed logfile, bytes written: 6979794"
+1,[logger] /fs/microsd/log/2025-08-07/08_43_32.ulg
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+2,"no gyro selected, using sensor_gyro_fifo:0 2490402"
+3,"vehicle_command_ack lost, generation 754 -> 756"
+1,"[cal] detected rest position, hold still..."
+1,Armed by external command
+3,parameter export to /fs/mtd_params failed (-1) attempt 2
+2,"First waypoint too far away: 682041m, 8000 max"
+1,MAVLINK system compid: 1
+2,"Critical battery level, return now"
+2,Preflight Fail: Strong magnetic interference
+2,Mission rejected: Mission contains VTOL items but vehicle is not a VTOL
+1,Command 45000 not acknowledged
+3,verify: failed (-1)
+3,bmi088: no instance started (no device on bus?)
+3,Low battery level
+2,RTT too high for timesync: 18 ms
+1,Start file log (type: full)
+1,Armed by external command
+2,GPS reports spoofing indicated
+1,Opened full log file: /fs/microsd/log/2025-08-06/06_58_59.ulg
+1,New total flight time 297 min
+1,"0 (73225) EST:1 offset: [0.126, 0.045, -0.208]->[0.140, 0.054, -0.212] (full [0.179, 0.071, -0.22"
+3,Emergency battery level
+3,"sensor_gyro lost, generation 377039 -> 377041"
+1,Opened full log file: /fs/microsd/log/sess112/log100.ulg
+1,Armed by RC
+1,Start file log (type: full)
+2,mavlink for device /dev/ttyS1 is not running
+1,Connection to ground station lost
+1,"mode: Normal, data rate: 100000 B/s on udp port 14550 remote port 14550"
+1,"Found address 0x41, running 'ina226 -X -b 1 -t 1 start'"
+1,"Node ID 1, bitrate 1000000"
+3,open '/fs/mtd_caldata' failed (2)
+2,RTT too high for timesync: 13 ms
+1,"instance: 0, max rate: 100, default: 50, alt: 50"
+2,ist8310: no instance started (no device on bus?)
+1,Opened full log file: /fs/microsd/log/2022-09-09/11_24_26.ulg
+1,[cal] pending: left right
+1,send disarm battery command
+1,[logger] /fs/microsd/log/2025-08-01/04_52_51.ulg
+3,verify: failed (-1)
+1,"BSON document size 2409 bytes, decoded 2409 bytes"
+1,GYRO 1 (2490378) offset committed: [0.021 -0.024 -0.002]->[0.008 -0.024 -0.001])
+1,"mode: Normal, data rate: 100000 B/s on udp port 14550 remote port 14550"
+1,"closed logfile, bytes written: 1135551"
+2,Preflight Fail: Avionics Power low:   4.73 Volt
+1,Start file log (type: full)
+2,ms4525do: no instance started (no device on bus?)
+1,Landing detected
+3,get: param 65535 invalid
+1,"closed logfile, bytes written: 554312"
+1,Mag: 0 sphere radius: 0.4542
+1,with netmask: 255.255.255.0
+1,Disarmed by RC (switch)
+1,Calibration: Disabling RC input
+1,Got parameter update!
+2,Preflight Fail: Kill switch engaged
+2,Preflight Fail: Kill switch engaged
+2,Switching to Position is currently not available
+1,Starting CDC/ACM autostart
+1,Takeoff detected
+1,exiting channel 2
+1,"FixedwingPositionControl: current_alt: 43.035,   CAS: 43.680,   dH_sp: 0.000"
+3,BSON document size (2680) doesn't match bytes decoded (163)
+2,Preflight Fail: Attitude failure (pitch)
+1,Armed by RC (switch)
+1,"closed logfile, bytes written: 530500"
+2,Preflight Fail: Yaw estimate error
+1,[logger] /fs/microsd/log/2025-08-06/12_01_47.ulg
+2,Preflight Fail: velocity estimate error
+1,"1 (396817) EST:0 offset: [0.015, 0.011, -0.069]->[0.008, 0.013, -0.069] (full [-0.038, 0.037, -0."
+1,"closed logfile, bytes written: 2923645"
+3,"param import failed (-1) attempt 2, retrying"
+3,"vehicle_command_ack lost, generation 2 -> 6"
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+1,channel 0 got 15 bytes
+1,Armed by RC (switch)
+3,param auto save failed (-1)
+1,Opened full log file: /fs/microsd/log/2025-08-03/09_21_04.ulg
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,"successfully created rt/fmu/out/vehicle_local_position_setpoint data writer, topic id: 258"
+3,get: param 65535 invalid
+1,"successfully created rt/fmu/out/vehicle_angular_velocity data writer, topic id: 240"
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+3,"action_request lost, generation 66 -> 68"
+2,Preflight Fail: Attitude failure (roll)
+1,importing from '/fs/mtd_params'
+3,"vehicle_command_ack lost, generation 2 -> 6"
+1,Start file log (type: full)
+2,Preflight Fail: No connection to the ground control station
+2,停止卫星定向航向融合
+1,Start file log (type: full)
+3,PWM_SERVO_SET_ARM_OK
+1,"mode: Onboard, data rate: 46080 B/s on /dev/ttyS3 @ 921600B"
+1,switched to short range rate: 50
+1,"mode: Onboard, data rate: 100000 B/s on /dev/ttyACM0 @ 2000000B"
+3,Low battery level
+1,Opened full log file: /fs/microsd/log/2025-08-09/17_11_35.ulg
+1,"closed logfile, bytes written: 3211412"
+1,Armed by RC switch
+1,"BSON document size 2876 bytes, decoded 2876 bytes (INT32:63, FLOAT:75)"
+2,Preflight Fail: Kill switch engaged
+2,Preflight: GPS Horizontal Pos Drift too high
+1,ACC 1 (6946834) offset committed: [-0.138 0.057 -0.094]->[-0.177 0.050 -0.043])
+1,"successfully created rt/probe_1/fmu/out/home_position data writer, topic id: 124"
+3,Parameter PWM_AUX_FUNC3 not found.
+1,Start file log (type: full)
+3,Battery 1: over voltage. Land now!
+3,ms4525do: no instance started (no device on bus?)
+1,starting loop
+1,ACC 2 (3407882) offset committed: [0.053 0.006 -0.111]->[0.105 0.002 -0.099])
+1,Start file log (type: full)
+1,data manager file '/fs/microsd/dataman' size is 66184 bytes
+1,Opened full log file: /fs/microsd/log/sess028/log001.ulg
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS1 @ 921600B"
+3,Preflight Fail: low battery
+2,Preflight Fail: Attitude failure (roll)
+1,Section : 1 Start : 17929 End : 40206 MaxIndex : 3713
+3,get: param 65535 invalid
+3,get: param 65535 invalid
+3,verify: 'CAL_ACC1_ID' invalid BSON value 1245202(expected 2490386)
+1,Takeoff detected
+1,IO FW CRC match
+2,Preflight Fail: Kill switch engaged
+1,"closed logfile, bytes written: 2007741"
+2,Battery 1 disconnected. Land now!
+1,进入高度：36.9m
+1,Landing detected
+3,"can't start sbus, it's running"
+1,Disarmed by landing
+3,param export failed (-1)
+1,"force: [0.000000, 0.000000, 0.893950], torque: [0.021615, 0.014017, -0.000322]"
+3,Low battery level
+1,"successfully created rt/fmu/out/failsafe_flags data writer, topic id: 93"
+3,"sensor_gyro lost, generation 377039 -> 377041"
+1,ACC 2 (2424842) offset committed: [-0.011 0.116 0.035]->[-0.009 0.192 0.008])
+1,Starting CDC/ACM autostart
+1,logger started (mode=all)
+3,"vehicle_command_ack lost, generation 257 -> 294"
+3,mtd failure: -6 bus 2 address 0 class 1
+3,I2C device not opened
+1,"closed logfile, bytes written: 2678"
+3,configure_streams_to_default() failed
+1,"instance: 0, max rate: 800, default: 50, alt: 400"
+1,u-blox protocol version: 27.31
+2,Preflight: GPS fix too low
+3,timeout after 1000 ms!
+1,"successfully created rt/fmu/out/failsafe_flags data writer, topic id: 93"
+3,Could not find parameter with name BAT4_V_EMPTY
+2,"Traffic alert - UTM callsign N445ME  ! Separation Distance 494, Heading 330, ICAO Address 10837576"
+3,"write failed errno:22 (Invalid argument), retrying"
+2,Preflight Fail: Vehicle is not in multicopter mode
+1,"Found address 0x41, running 'ina226 -X -b 1 -t 1 start'"
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+2,Using minimum takeoff altitude: 0.50 m
+1,Landing detected
+2,IGN MISSION_ITEM: No transfer
+3,Low battery level
+1,Start file log (type: full)
+2,ist8310: no instance started (no device on bus?)
+1,0 - mag sensor ID changed 1600876137 -> 8944899
+2,ARM
+1,Armed by external command
+1,"roll = 0.0039, pitch = -0.0090, yaw = -0.2837"
+3,killed: node name overflow
+1,"0 - New NED origin (LLA): 38.4961853027, -77.7984695435, 91.061"
+1,"0 (396825) EST:1 offset: [0.004, 0.063, -0.035]->[0.023, 0.024, -0.023] (full [0.174, -0.077, 0.0"
+2,vehicle armed due to 4
+1,Registered Topic for 0x6 0x24
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+2,Preflight: GPS Speed Accuracy too low
+1,"Found address 0x45, running 'ina228 -X -b 1 -t 1 start'"
+2,Preflight Fail: Kill switch engaged
+2,Preflight Fail: height estimate not stable
+3,timeout after 1000 ms!
+1,Opened full log file: /fs/microsd/log/2024-09-29/07_54_55.ulg
+1,Takeoff detected
+3,Parameter MAV_2_BROADCAST not found.
+1,"Unknown restart, data manager file '/fs/microsd/dataman' size is 362560 bytes"
+2,Preflight Fail: GPS Horizontal Pos Drift too high
+1,idle : 80 free
+1,"closed logfile, bytes written: 981167"
+3,"vehicle_command_ack lost, generation 547 -> 549"
+3,verify: failed (-1)
+3,Parameter MAV_2_REMOTE_PRT not found.
+1,selected parameter default file /fs/mtd_params
+1,selected parameter default file /fs/mtd_params
+1,Failsafe mode activated
+2,Preflight Fail: Distance Sensor missing
+1,"successfully created rt/fmu/out/vehicle_global_position data writer, topic id: 250"
+1,RC scan: SBUS RC input locked
+3,timeout after 1000 ms!
+1,sending FrSky SmartPort telemetry
+1,"gyro 1 (2490378) updating calibration, [0.0457, -0.0252, -0.0031] -> [0.0473, -0.0151, -0.0044] 36.6°C"
+3,status: 0 status: 0
+1,selected parameter default file /fs/mtd_params
+1,"Node ID 1, bitrate 1000000"
+2,Kill engaged
+3,driver start failed
+1,"starting instance 2, IMU:2 (4259850), MAG:0 (396825)"
+1,"steam not found, configure and send"
+1,and broadcast IP: 10.0.0.255
+2,Preflight: GPS Horizontal Pos Error too high
+1,importing from '/fs/mtd_params'
+3,get: param 65535 invalid
+2,Preflight Fail: Attitude failure (pitch)
+2,Preflight: GPS Horizontal Pos Drift too high
+3,verify: invalid parameter 'CAL_GYRO2_ZO '
+1,qq_ver2=20250523
+1,[logger] /fs/microsd/log/2025-08-06/08_07_10.ulg
+2,Preflight Fail: Flight termination active
+2,Preflight Fail: Yaw estimate error
+1,can_thread : 112 free
+2,Preflight Fail: Flight termination active
+2,Preflight Fail: Kill switch engaged
+2,"No response from 1, flagging unresponsive"
+1,[cal] progress <100>
+1,Disarmed by RC switch
+1,Opened full log file: /fs/microsd/log/2025-07-30/07_49_45.ulg
+3,"vehicle_command_ack lost, generation 22 -> 27"
+3,Emergency battery level
+1,Armed by RC (switch)
+1,Standby -> Ready
+1,ist8310 初始化失败!
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+1,[logger] /fs/microsd/log/2025-08-09/17_14_56.ulg
+1,IO FW CRC match
+1,time sync converged
+3,couldn't start parameter count: -2
+3,Parameter PWM_AUX_FUNC3 not found.
+1,Start file log (type: full)
+3,get: param 65535 invalid
+1,"closed logfile, bytes written: 1231347"
+2,Preflight Fail: Kill switch engaged
+1,0 - mag sensor ID changed 4272933121 -> 8944899
+1,Dance_PX4::_updateFence()
+2,Preflight Fail: Kill switch engaged
+1,Opened full log file: /fs/microsd/log/sess100/log100.ulg
+1,logger started (mode=all)
+1,"mode: Normal, data rate: 5760 B/s on /dev/ttyS3 @ 115200B"
+1,"gyro 2 (2424842) updating offsets [-0.131, 0.079, 0.014]->[-0.119, 0.075, 0.015] 37.2 degC"
+2,Preflight: GPS fix too low
+1,Dance parameters received. Geocage alt: 123.12 m
+1,"instance: 0, max rate: 100, default: 50, alt: 50"
+1,IO FW CRC match
+3,"vehicle_command_ack lost, generation 3532 -> 3550"
+1,sys identification init: loop:0.000000 amp:0.010000 t:120.000000
+3,"create entities failed: rt/fmu/out/vehicle_command_ack, topic: 255 publisher: 255 datawriter: 255"
+1,ACC 1 (2490378) offset committed: [0.055 0.012 -0.134]->[0.003 0.002 -0.149])
+1,can_thread : 72 free
+1,Disarmed by landing
+1,Takeoff detected
+2,Preflight Fail: Kill switch engaged
+1,"Found address 0x41, running 'ina226 -X -b 1 -t 1 start'"
+1,"rc wp seq:10,lat:30.279808,lon:120.001728,alt:143.000000"
+1,"BSON document size 2232 bytes, decoded 2232 bytes (INT32:41, FLOAT:64)"
+1,Armed by RC (switch)
+1,[cal] Offset of -13 Pascal
+1,Takeoff detected
+3,verify: failed (-1)
+1,data manager file '/fs/microsd/dataman' size is 62560 bytes
+1,Disarmed by RC (switch)
+3,param export failed (-1)
+1,"1 (8944899) EST:1 offset: [0.028, 0.055, 0.028]->[0.024, 0.051, 0.028] (full [0.016, 0.039, 0.014"
+3,parameter export to /fs/microsd/params failed (-1) attempt 3
+2,RTT too high for timesync: 13 ms
+1,"Node ID 1, bitrate 1000000"
+1,[logger] /fs/microsd/log/2025-08-07/09_18_26.ulg
+1,Landing detected
+3,sdp3x: no instance started (no device on bus?)
+1,Armed by RC switch
+3,failed to get CAL_GYRO3_ID
+1,Opened full log file: /fs/microsd/log/2025-07-10/08_26_14.ulg
+1,Mixer: /etc/mixers/pass.aux.mix on /dev/pwm_output1
+1,"BSON document size 2836 bytes, decoded 2836 bytes (INT32:62, FLOAT:73)"
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+2,RTT too high for timesync: 17 ms
+2,no device on bus #3 (SPI1)
+1,Start file log (type: full)
+1,selected parameter backup file /fs/microsd/parameters_backup.bson
+1,"BSON document size 2000 bytes, decoded 2000 bytes (INT32:41, FLOAT:56)"
+1,Connection to ground station lost
+1,Opened full log file: /fs/microsd/log/2025-08-08/07_37_08.ulg
+1,logger started (mode=all)
+2,Disarming denied: not landed
+2,Preflight: GPS Horizontal Pos Drift too high
+1,GCS connection regained
+1,Disarmed by RC switch
+1,"successfully created rt/fmu/out/position_setpoint_triplet data writer, topic id: 180"
+1,Start file log (type: full)
+2,Geofence violation for waypoint 1
+1,"0 (458770) EST:1 offset: [-0.004, -0.217, -0.001]->[0.008, -0.216, 0.000] (full [0.077, -0.198, 0"
+1,u-blox protocol version: 32.01
+1,Allocated DMA UP Timer Index 0
+3,get: param 65535 invalid
+3,verify: failed (-1)
+3,get: param 65535 invalid
+1,[logger] /fs/microsd/log/2025-08-07/13_04_06.ulg
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+2,No COM port detected
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,Takeoff detected
+1,GPS checks passed
+1,importing from '/fs/mtd_params'
+2,Disarming denied! Not landed
+2,Preflight Fail: No connection to the ground control station
+3,"vehicle_command_ack lost, generation 22 -> 27"
+1,Opened full log file: /fs/microsd/log/2025-08-04/17_47_34.ulg
+1,"[Crawl] Detected blockage, stopping motors"
+1,importing from '/fs/mtd_params'
+1,Opened full log file: /fs/microsd/log/2023-03-27/18_22_52.ulg
+2,Preflight Fail: Compasses 147° inconsistent
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,[cal] calibration started: 2 level
+1,"1 (466961) EST:0 offset: [0.017, 0.016, -0.062]->[-0.009, 0.014, -0.061] (full [-0.034, 0.013, 0."
+3,Task start failed (-1)
+2,RTT too high for timesync: 13 ms
+3,tf02pro: no instance started (no device on bus?)
+2,Preflight Fail: Yaw estimate error
+2,Preflight Fail: Found 0 compass (required: 1)
+3,get: param 65535 invalid
+2,Preflight Fail: Strong magnetic interference
+1,INFO: Product name
+1,Takeoff detected
+1,[logger] /fs/microsd/log/2025-08-06/07_54_55.ulg
+1,selected parameter default file /fs/mtd_params
+1,"Mission #3 loaded, 6 WPs, curr: 2"
+2,Preflight Fail: Kill switch engaged
+1,Start file log (type: full)
+1,[cal] progress <42>
+1,Mixer: /etc/mixers/nuaa_quad_tiltrotor.main.mix on /dev/pwm_output0
+3,get: param 65535 invalid
+2,Preflight Fail: Flight termination active
+1,logger started (mode=all)
+3,not starting (use px4io for safety button)
+3,Network could not be saved!
+1,[cal] progress <50>
+2,Already running on bus 1
+1,Kill-switch disengaged
+1,Kill-switch engaged
+2,Already running on bus 1
+1,Opened full log file: /fs/microsd/log/sess117/log101.ulg
+1,Armed by RC (switch)
+1,Disarmed by landing
+3,Preflight Fail: low battery
+2,Preflight Fail: vertical velocity unstable
+1,SD FreeN 30355 MB Total: 30424 MB
+1,u-blox supports L5 Band
+1,"1 (396809) EST:0 offset: [-0.006, -0.033, 0.205]->[-0.001, -0.037, 0.206] (full [0.008, -0.039, 0"
+3,verify: invalid parameter 'RC_MB'
+3,node spin error -8
+3,invalid baud rate 'p:SER_GPS2_BAUD'
+1,"[cal] Hold still, measuring up side"
+1,Disarmed by RC
+1,Opened full log file: /fs/microsd/log/2025-08-07/08_01_42.ulg
+1,ACC 0 (4259850) offset committed: [0.164 -0.057 0.155]->[0.073 0.026 0.141])
+1,wyb_test: home.x = -0.281677 z = -0.278613
+3,PWM_SERVO_SET_SELECT_UPDATE_RATE
+1,"mode: Onboard, data rate: 5760 B/s on /dev/ttyS2 @ 115200B"
+3,parameter export to /fs/microsd/params failed (-1) attempt 2
+1,Armed by RC
+1,qmc5883 初始化失败!
+1,Pilot took over using sticks
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+1,"BSON document size 3012 bytes, decoded 3012 bytes (INT32:48, FLOAT:96)"
+1,"1 (8944899) EST:0 offset: [0.332, -0.324, 0.222]->[0.335, -0.319, 0.222] (full [0.517, 0.156, 0.1"
+2,Preflight Fail: Flight termination active
+1,Takeoff detected
+1,"closed logfile, bytes written: 1301039"
+1,Starting CDC/ACM autostart
+3,Low battery level
+2,Preflight Fail: Flight termination active
+2,Preflight Fail: GPS Vertical Pos Drift too high
+3,get: param 65535 invalid
+1,[logger] /fs/microsd/log/2025-08-08/01_24_53.ulg
+1,[logger] /fs/microsd/log/2025-08-01/16_19_12.ulg
+2,Preflight: GPS Speed Accuracy too low
+1,[logger] /fs/microsd/log/2025-06-07/09_16_50.ulg
+3,Parameter MAV_2_UDP_PRT not found.
+1,Opened full log file: /fs/microsd/log/2025-08-08/03_06_57.ulg
+3,tf02pro: no instance started (no device on bus?)
+1,Armed by RC (switch)
+2,Preflight Fail: Kill switch engaged
+3,"vehicle_command_ack lost, generation 2 -> 6"
+2,Preflight Fail: CPU load too high: 97.2%
+1,u-blox module: ZED-F9P
+1,channel 0 got 14 bytes
+2,ist8310: no instance started (no device on bus?)
+3,SET_MESSAGE_INTERVAL requested param3 not supported.
+1,data_uncompr_size: 10281
+1,idle 82.58%(4129226/5000016)
+1,[cal] Offset of -13 Pascal
+1,Kill disengaged
+2,Preflight Fail: position estimate error
+1,"successfully created rt/fmu/out/sensor_combined data writer, topic id: 203"
+3,"param import failed (-1) attempt 2, retrying"
+1,DECODED_SIZE:5 SAVED_SIZE:-1
+1,open battery charge mos : response success 53
+2,RTT too high for timesync: 24 ms
+2,Preflight Fail: Strong magnetic interference
+1,"mode: Onboard, data rate: 46080 B/s on /dev/ttyS1 @ 921600B"
+1,u-blox firmware version: SPG 4.04
+1,"successfully created rt/fmu/out/failsafe_flags data writer, topic id: 93"
+1,"force: [0.000000, 0.000000, 23.747232], torque: [0.023214, -0.067906, -0.000927]"
+1,"closed logfile, bytes written: 2339252"
+1,[logger] /fs/microsd/log/2025-08-08/05_20_13.ulg
+1,Armed by RC (switch)
+1,IO FW CRC match
+1,"Mission download request ignored, already active"
+2,Preflight Fail: heading estimate not stable
+3,get: param 65535 invalid
+1,Takeoff detected
+1,CAN drv init OK
+3,mtd_partition failed. offset=32 nblocks=0
+2,Preflight Fail: Yaw estimate error
+1,Takeoff detected
+1,Disarmed by RC (switch)
+1,Opened full log file: /fs/microsd/log/2025-08-06/20_24_09.ulg
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS5 @ 57600B"
+3,Parameter MAV_2_UDP_PRT not found.
+1,and broadcast IP: 10.0.0.255
+1,"mode: Normal, data rate: 1200 B/s on /dev/ttyS1 @ 57600B"
+2,Preflight Fail: Attitude failure (roll)
+1,"mode: Onboard, data rate: 2880 B/s on udp port 14552 remote port 14552"
+1,"Mission download request ignored, already active"
+2,primary EKF changed 1 (filter fault) -> 2
+2,Preflight Fail: No connection to the ground control station
+1,#动力可用、、、、
+2,"no gyro selected, using sensor_gyro_fifo:0 4325386"
+1,Armed by RC
+2,RTT too high for timesync: 110 ms
+1,"closed logfile, bytes written: 395311"
+2,Preflight: GPS Horizontal Pos Drift too high
+1,stopping optical flow fusion
+2,Preflight Fail: Kill switch engaged
+1,Start file log (type: full)
+1,"successfully created rt/fmu/out/vehicle_status data writer, topic id: 229"
+3,Low battery level
+1,"0 (458770) EST:0 offset: [-0.018, -0.219, -0.002]->[-0.004, -0.217, -0.001] (full [0.071, -0.193,"
+1,"mode: Onboard, data rate: 46080 B/s on /dev/ttyS2 @ 921600B"
+1,[logger] /fs/microsd/log/2025-08-08/00_59_23.ulg
+2,Preflight Fail: height estimate not stable
+2,Preflight Fail: Strong magnetic interference
+3,"0 - accel 3604514 timestamp error timestamp_sample: 295382, previous timestamp_sample: 295394"
+1,"Serial Number: 0x3CDC, Firmware revision: 0x134 Date: Y 2024 DM 719"
+3,Parameter MAV_2_BROADCAST not found.
+1,[logger] /fs/microsd/log/2025-08-09/17_08_36.ulg
+1,selected parameter default file /fs/mtd_params
+3,"write failed errno:22 (Invalid argument), retrying"
+1,"force: [0.000000, 0.000000, -0.574235], torque: [0.187791, -0.764059, 0.005875]"
+3,"create entities failed: rt/fmu/out/vehicle_command_ack, topic: 255 publisher: 255 datawriter: 255"
+1,Autobauding...
+1,COMMAND LONG: 512
+1,data manager file '/fs/microsd/dataman' size is 68528 bytes
+1,"0 (458770) EST:1 offset: [0.001, 0.057, 0.026]->[-0.013, 0.059, 0.028] (full [-0.205, 0.061, 0.03"
+2,Failsafe: stop and wait
+2,Preflight Fail: vertical velocity unstable
+1,Takeoff detected
+3,mtd_partition failed. offset=32 nblocks=0
+1,"Node ID 1, bitrate 1000000"
+1,"[Crawl] Detected blockage, stopping motors"
+1,"closed logfile, bytes written: 31849600"
+1,and broadcast IP: 192.168.0.255
+1,logger started (mode=all)
+1,"closed logfile, bytes written: 314247"
+1,Armed by RC switch
+1,Ready -> Takeoff
+1,GYRO 2 (2424842) offset committed: [0.016 -0.018 0.004]->[0.009 -0.011 0.005])
+1,Opened full log file: /fs/microsd/log/2025-08-01/05_34_45.ulg
+3,"vehicle_command_ack lost, generation 12 -> 2998"
+1,"successfully created rt/fmu/out/vehicle_optical_flow data writer, topic id: 262"
+1,selected parameter default file /fs/mtd_params
+1,open battery charge mos : response success 53
+3,GetSet error during param count
+3,"sensor_gyro lost, generation 377039 -> 377041"
+3,get: param 65535 invalid
+1,Opened full log file: /fs/microsd/log/2025-07-30/07_45_15.ulg
+2,Preflight Fail: Kill switch engaged
+1,MMCAN_ trigger init
+3,get: param 65535 invalid
+2,Preflight Fail: Accel 0 inconsistent - check cal
+3,invalid baud rate 'p:SER_GPS2_BAUD'
+3,no ADC found: /dev/adc0 (2)
+1,[cal] Battery connected
+1,Armed by external command
+3,/dev/ttyACM0 already running
+2,ms5525dso: no instance started (no device on bus?)
+3,verify: failed (-1)
